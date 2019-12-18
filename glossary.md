@@ -1,11 +1,14 @@
 ---
 title: "Open Research Glossary"
 author: "Jon Tennant and Ross Mounce"
-date: "2020"
-output: html_document
+date: 'January 2020'
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
 ---
 
-This resource based on the original created by [Jon Tennant](https://twitter.com/Protohedgehog/) and [Ross Mounce](https://twitter.com/rmounce).
+This resource is based on the original created by [Jon Tennant](https://twitter.com/Protohedgehog/) and [Ross Mounce](https://twitter.com/rmounce).
 
 This glossary is designed to be a resource to inform people about the culture of "open research". It was written by the community, for the community, and depends on the community to stay current. To update this resource please make any changes [here](https://github.com/Protohedgehog/open-research-glossary).
 
@@ -160,7 +163,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Creative Commons (CC) -** A popular suite of licences that sets out the rights of authors and users, providing alternatives to the standard copyright. CC licences are widely used, simple to state, machine readable and have been created by legal experts.There are a variety of CC licences, each of which use one or more clauses, examples of which are given below. Some licences are compatible with OA in the 'Budapest sense', and some are not; [Source](https://creativecommons.org/licenses/)).
 
-* **CC Zero (CC 0) - ** Waiver of copyright, with no rights reserved. Places content as openly as possible in the public domain; [Source](http://creativecommons.org/about/cc0).
+* **CC Zero (CC 0) -** Waiver of copyright, with no rights reserved. Places content as openly as possible in the public domain; [Source](http://creativecommons.org/about/cc0).
 
 * **CC Attribution (CC BY) -** A licence clause that allows the reuse, sharing, and remixing of materials providing the original author is appropriately attributed. Aside from attribution the CC BY licence has no other restrictions on copying or reuse. Compatible with free cultural works.
 
@@ -178,7 +181,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Intellectual Property Rights (IPR) -** The rights given to the owners of intellectual property. IPR is protected either automatically (e.g., via copyright or design rights) or by registering or applying for it (e.g., trademarks, patents). Protecting your IP makes it easier to take legal action against anyone who steals or copies it. IPR can be legally sold, assigned or licenced by the creator to other parties, or jointly-owned.
 
-* **MIT License ****-** A popular open and permissive software license; [Source](http://opensource.org/licenses/MIT).
+* **MIT License -** A popular open and permissive software license; [Source](http://opensource.org/licenses/MIT).
 
 * **Rehost -**
 
@@ -218,7 +221,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Article-level metrics -** All types of article-level metrics including download and usage statistics, citations, and article-level altmetrics; [Source](http://library.pitt.edu/oscp/glossary).
 
-* **Bibliometrics ****-** Bibliometrics is the branch of library and information science concerned with the application of mathematical and statistical analysis to bibliography. Bibliometrics involves the statistical analysis of books, articles, or other publications.
+* **Bibliometrics -** Bibliometrics is the branch of library and information science concerned with the application of mathematical and statistical analysis to bibliography. Bibliometrics involves the statistical analysis of books, articles, or other publications.
 
 * **H-index -** A personal metric that relates the number of citations to the number of published papers for an academic. It measures the number of papers (n) that have been cited n times; [Source](http://en.wikipedia.org/wiki/H-index).
 
@@ -239,7 +242,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 ## Organisations
 
-### Funders And Policy-Related
+### Funders and policy-related
 
 * **AmeliCA -**
 
@@ -261,124 +264,193 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **OpenUP -**
 
-* **OPERAS -**
+- **Public Knowledge Project (PKP) -** A multi-university initiative developing free, Open Source software and conducting research to improve the quality and reach of scholarly publishing; [Source](https://pkp.sfu.ca/).
 
 * **Plan S -**
 
-* **Research Councils UK (RCUK) ****-** The primary government research funding body in the UK. ([Open Access policy](http://www.rcuk.ac.uk/research/openaccess/)) - NEEDS UPDATING
+* **Projekt DEAL -**
 
-* **Research Excellence Framework (REF) ****-** An initiative to assess the quality of research undertaken in UK higher education institutions. Coordinated by HEFCE.
+* **Research Councils UK (RCUK) -** The primary government research funding body in the UK. ([Open Access policy](http://www.rcuk.ac.uk/research/openaccess/)) - NEEDS UPDATING
+
+* **Research Excellence Framework (REF) -** An initiative to assess the quality of research undertaken in UK higher education institutions. Coordinated by HEFCE.
 
 * **Wellcome Trust -** A life sciences charity and funding body in the UK ([Open Access policy](http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm))
 
 
+### Open Research Infrastructure
+
+* **Connecting Repositories (CORE) -** A collection of OA repositories; [Source](http://core.kmi.open.ac.uk/).
+
+* **Confederation of Open Access Repositories (COAR) -**
+
+* **Directory of Open Access Repositories (OpenDOAR) -** A directory of academic OA repositories. Also has a search function for repositories and repository contents; [Source](http://www.opendoar.org/).
+
+* **Directory of Open Access Journals (DOAJ) -** A directory indexing OA peer-reviewed journals; [Source](http://doaj.org/).
+
+* **Directory of Open Access Books (DOAB) -** A directory indexing open access peer-reviewed books; [Source](http://doabooks.org/).
+
+* **Europe PubMed Central (EuroPMC) -** Based on PubMed Central, and part of a network of repositories supported by funders of life sciences and biomedical research; [Source](http://europepmc.org/).
+
+* **Registry of Open Access Repositories (ROAR) -** A registry for OA repositories, hosted by the University of Southampton, UK; [Source](http://roar.eprints.org/).
+
+* **PubMed -** A repository comprising more than 24 million citations for the biomedical literature; [Source](http://www.ncbi.nlm.nih.gov/pubmed).
+
+* **PubMed Central (PMC) -** A free full-text archive of biomedical and life sciences journal literature at the US National Institutes of Health's Library of Medicine; [Source](http://www.ncbi.nlm.nih.gov/pmc/).
+
+* **Repository 66 -** A mashup of data from ROAR and OpenDOAR overlayed onto Google maps; [Source](http://maps.repository66.org/).
+
+* **OpenAIRE -** A pan-European infrastructure that supports the EC&#39;s Open Access Mandate in Horizon2020. All publications funded by the EC should be made available in Open Access and OpenAIRE harvests from a range of data sources namely repositories, OA publishers. ([Source)](http://www.openaire.eu)
+
+* **OPERAS -**
+
+* **REDALYC -**
+
+* **Scientific Electronic Library Online (SciELO) -** A programme started in Brazil in 1998 which has now expanded to 15 other countries, developed by FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) and BIREME (Centro Latino-americano e do Caribe em Informação em Ciências da Saúde). The objectives are to develop a common methodology for the preparation, storage and dissemination of scientific literature, including standardised evaluation and quality control processes. This comprises a model for cooperative electronic publication of scientific periodicals on the internet using organised bibliographic databases with full text access; Source, in [Portuguese](http://www.scielo.org/php/level.php?lang=pt&amp;component=56&amp;item=1) and in [English](http://www.scielo.org/php/level.php?lang=en&amp;component=42&amp;item=1).
+
+* **Securing a Hybrid Environment for Research Preservation and Access - Rights of MEtadata for Open archiving (SHERPA-RoMEO) -** A tool to check what the self-archiving policies for individual journals are; [Source](http://www.sherpa.ac.uk/romeo).
+
+
 ### Advocacy organisations
 
-- **Open Access Scholarly Publishers Association (OASPA) -** Represents the interests of OA journal and book publishers in all scientific, technical, and scholarly disciplines; [Source](http://oaspa.org/).
+* **Open Access Scholarly Publishers Association (OASPA) -** Represents the interests of OA journal and book publishers in all scientific, technical, and scholarly disciplines; [Source](http://oaspa.org/).
 
-- **Right to Research Coalition (R2RC) -**
+* **Right to Research Coalition (R2RC) -**
 
-- **Scholarly Publishing and Academic Resources Coalition (SPARC) -** An international alliance of academic and research libraries working to create a more open system of scholarly communication. Primarily based in the [USA]((http://www.sparc.arl.org/)), but now with branches in Europe, South Africa, and Japan.
+* **Scholarly Publishing and Academic Resources Coalition (SPARC) -** An international alliance of academic and research libraries working to create a more open system of scholarly communication. Primarily based in the [USA](http://www.sparc.arl.org/), but now with branches in Europe, South Africa, and Japan.
 
-
-### Service providers
-
-- ** CrossRef -** an association of scholarly publishers that develops shared infrastructure to support more effective scholarly communication. ([Source](http://www.crossref.org/))
-- ** Public Knowledge Project (PKP) ****-** a multi-university initiative developing free, open source software and conducting research to improve the quality and reach of scholarly publishing. ([Source](https://pkp.sfu.ca/))
-- GetTheResearch
-- Digital science
-- Clarivate Analytics
-- Elsevier
-- 
 
 ## Tools and platforms
 
-
 ### Formats, identifiers and standards
 
-* ** Comma-Separated Values, or Character-Separated Values (CSV)** - a plain-text (non-binary) format for tabular data.
-* ** Digital Object Identifier (DOI) ****-** a unique text string that is used to identify digital objects such as journal articles or open source software releases. ([Source](http://www.doi.org/))
-* ** Extensible Markup Language (XML)** - A language that defines a set of rules for encoding documents in a format that is readable by both machines and humans. ([Wikipedia](http://en.wikipedia.org/wiki/Altmetrics))
-* ** Hypertext Markup Language (HTML) -** the set of markup symbols or codes inserted in a file intended for display on a browser page. ([Wikipedia](http://en.wikipedia.org/wiki/HTML))
-* ** Journal Article Tag Suite (JATS) -** a common XML format in which publishers and archives can exchange journal content. ([Source](http://www.niso.org/apps/group_public/download.php/10591/z39.96-2012.pdf))
-* ** LaTeX ****-** a markup language for typesetting documents, particularly common in mathematics and the sciences. Many academic journals accept submissions in LaTeX. ([Source](http://www.latex-project.org))
-* ** Machine Readable Cataloguing (MARC) -** a set of digital formats for the description of items catalogued by libraries. ([Wikipedia](http://en.wikipedia.org/wiki/MARC_standards))
-* ** Markdown** - a syntax for adding formatting to documents allowing correctly formatted articles to be written in plain text. ([Wikipedia](http://en.wikipedia.org/wiki/Markdown))
-* ** Uniform Resource Identifier (URI) -** a string of characters used to identify a name of a resource to enable its digital and networked representation and interaction. ([Wikipedia](http://en.wikipedia.org/wiki/Uniform_resource_identifier))
-* ** Scalable Vector Graphics (SVG) -** a format for images that is open rather than tied to particular software, resolution-independent (unlike GIF, PNG and JPG), and structured so that with appropriate software it is relatively easy, for example, to translate labels into different languages.
-* ** ResearcherID -** assigns a unique identifier for researchers to manager publication ists, track citations, and avoid author mis-identification. ([Source](http://www.researcherid.com/Home.action?returnCode=ROUTER.Unauthorized&amp;SrcApp=CR&amp;Init=Yes))
-* ** ORCID -** a persistent digital identifier that distinguishes individual researchers. Also supports integration in research workflows. ([Source](http://orcid.org/))
+* **Comma-Separated Values, or Character-Separated Values (CSV) -** A plain-text (non-binary) format for tabular data.
+
+* **Digital Object Identifier (DOI) -** A unique text string that is used to identify digital objects such as journal articles or OSS releases; [Source](http://www.doi.org/).
+
+* **Extensible Markup Language (XML) -** A language that defines a set of rules for encoding documents in a format that is readable by both machines and humans; [Source]().
+
+* **Hypertext Markup Language (HTML) -** The set of markup symbols or codes inserted in a file intended for display on a browser page; [Source](http://en.wikipedia.org/wiki/HTML).
+
+* **Journal Article Tag Suite (JATS) -** A common XML format in which publishers and archives can exchange journal content; [Source](http://www.niso.org/apps/group_public/download.php/10591/z39.96-2012.pdf).
+
+* **LaTeX -** A markup language for typesetting documents, particularly common in mathematics and the sciences. Many academic journals accept submissions in LaTeX; [Source](http://www.latex-project.org).
+
+* **Machine readable -** Data or metadata in a format that can be understood by a computer.
+
+* **Machine Readable Cataloguing (MARC) -** A set of digital formats for the description of items catalogued by libraries; [Source](http://en.wikipedia.org/wiki/MARC_standards).
+
+* **Markdown -** A syntax for adding formatting to documents allowing correctly formatted articles to be written in plain text; [Source](http://en.wikipedia.org/wiki/Markdown).
+
+* **Open Archives Initiative (OAI) -** Develops and promotes interoperability standards that aim to facilitate the efficient dissemination of content; [Source](http://www.openarchives.org/).
+
+* **ORCID -** A persistent digital identifier that distinguishes individual researchers. Also supports integration in research workflows; [Source](http://orcid.org/).
+
+* **ResearcherID -** Assigns a unique identifier for researchers to manager publication ists, track citations, and avoid author mis-identification; [Source](http://www.researcherid.com/).
+
+* **Scalable Vector Graphics (SVG) -** A format for images that is open rather than tied to particular software, resolution-independent (unlike GIF, PNG and JPG), and structured so that with appropriate software it is relatively easy, for example, to translate labels into different languages.
+
+* **Uniform Resource Identifier (URI) -** A string of characters used to identify a name of a resource to enable its digital and networked representation and interaction; [Source](http://en.wikipedia.org/wiki/Uniform_resource_identifier).
 
 
-* ** AnnotatorJS / Hypothes.is** - A framework and application for annotating resources online according to an [emerging W3C standard for web annotations](http://www.w3.org/annotation/). Focus is on scholarly applications. ([Source Annotator](http://annotatorjs.org/) / [Source Hypothes.is](http://hypothes.is/))
-* ** Bitbucket** - Free source code hosting site. ([Source](https://bitbucket.org/))
-* ** Dissem.in - an online tool that detects papers behind paywalls and invites their authors to upload them in one click to an open repository (**[**Source**](https://dissem.in/)**)**
-* ** DSpace **** -** a software for digital open repositories launched by The Massachusetts Institute of Technology (MIT) in 2002. ([Source](http://www.dspace.org/))
-* ** Etherpad** - An online, open source collaborative writing/editing tool operating in real time. ([Source](http://etherpad.org/))
-* ** Eprints -** a software for open digital repositories to self-archiving launched by Southampton University in 2000. ([Source](http://www.eprints.org/))
-* ** Flexible Extensible Digital Object and Repository Architecture (FEDORA) **** -** a software for digital repositories launched by The Cornell and Virginia Universities in 2003. ([Source](http://fedorarepository.org/))
-* ** Git -** an open-source, distributed revision control system. ([Source](http://git-scm.com/))
-* ** GitHub -** a web-based service that provides a source code repository that works exclusively with the Git command-line tool. ([Source](https://github.com/))
-* ** IPython notebook -** a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. ([Source](http://ipython.org/notebook.html))
-* ** Machine readable -** data or metadata in a format that can be understood by a computer.
-* ** OAI Media Importer Bot -** A computer program, run by [Daniel Mietchen](https://twitter.com/evomri), that takes figures and video clips from Open Access articles in PubMed, and copies them to [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page) with full attribution of the original paper. This facilitates the reuse of those files in educational materials or Wikipedia articles.
-* ** Open Access Button -** Tracks global encounters with paywalls, and helps provide access to papers through a &#39;wishlist&#39;. ([Source](https://www.openaccessbutton.org/))
-* ** Open Archives Initiative ****-** Supplies a common framework to web communities that allows them to gain access to content in a standard manner by means of metadata harvesting. ([Source](http://openarchives.org/OAI))
-* ** Open Conference Systems (OCS) -** a free Web publishing tool that will create a complete Web presence for scholarly conferences. ([Source](https://pkp.sfu.ca/ocs/))
-* ** Open Harvester Systems -** a free metadata indexing system. ([Source](https://pkp.sfu.ca/ohs/))
-* ** Open Journal Systems (OJS) -** a journal management and publishing system. ([Source](https://pkp.sfu.ca/ojs/))
-* ** Open Monograph Press -** an open source software platform for managing the editorial workflow required to see monographs, edited volumes, and scholarly editions through internal and external review, editing, cataloguing, production and publication. ([Source](https://pkp.sfu.ca/omp/))
-* ** ProtocolsIO -** Up-to-date crowdsourced protocol repository ([Source](https://www.protocols.io))
-* ** Publish or Perish -** software for retrieving and analysing academic citations. ([Source](http://www.harzing.com/pop.htm#about))
-* ** Stack Overflow -** A Question and Answer site for programming issues. ([Source](http://stackoverflow.com/))
+### Services and service providers
 
-Data Repositories
+* **AnnotatorJS / Hypothes.is -** A framework and application for annotating resources online according to an [emerging W3C standard for web annotations](http://www.w3.org/annotation/). Focus is on scholarly applications; [Source Annotator](http://annotatorjs.org/) and [Source Hypothes.is](http://hypothes.is/).
 
-- ** Dryad -** a curated resource that makes the data underlying scientific publications discoverable, freely reusable, and citable. ([Source](http://datadryad.org/))
-- ** Global Biodiversity Information Facility (GBIF) -** contains data about all types of life on Earth, published according to common data standards. ([Source](http://www.gbif.org/))
-- ** Knowledge Network for Biocomplexity (KNB) -** a network for the discoverability, access, and interpretation of complex ecological data. ([Source](https://knb.ecoinformatics.org/))
-- ** DataONE -** a framework and infrastructure for Earth observational data. [Source](https://www.dataone.org/).
-- ** figshare -** a repository where users can make all of their research outputs available in a citable, shareable, and discoverable manner. ([Source](http://figshare.com/))
-- ** Morphbank -** an image database documenting a range of specimen-based research, including comparative anatomy and taxonomy. Funded by the National Science Foundation. ([Source](http://www.morphbank.net/))
-- ** Morphobank -** a web application for collaborative evolutionary research, specifically phylogenetic systematics or cladistics, involving morphology. ([Source](http://www.morphobank.org/))
-- ** Genbank -** the NIH sequence database comprising an annotated collection of all publicly available DNA sequences. Part of the [International Nucleotide Sequence Database Collaboration](http://www.insdc.org/). ([Source](http://www.ncbi.nlm.nih.gov/genbank/))
-- ** UniProt** - Central repository of protein sequence and annotation data. ([Source](http://www.uniprot.org/))
-- ** Worldwide Protein Data Bank (****wwPDB)** - Publicly available repository of macromolecular structural data. ([Source](http://www.wwpdb.org/))
--  A [list of data repositories](http://f1000research.com/for-authors/data-guidelines#hosting) approved by F1000Research.
--  A[list of data repositories](http://www.nature.com/sdata/data-policies/repositories) approved by Scientific Data.
-- ** Map of Open Educational Resource Repositories -** Map containing locations for items in the directory of Open Educational Resource Repositories. ([Source](https://oerqualityproject.wordpress.com/2013/05/16/map-of-oer-repositories/))
-- ** Zenodo ****-** An all-purpose free to use repository for all research outputs. DOIs and flexible licensing. ([Source](https://zenodo.org/)[)](https://zenodo.org/)
-- ** Open Science Framework ****-** A tool created by the Center for Open Science for scientists. It is both a research and workflow management tool and open repository. Their goal is to link up the entire research ecosystem, from conception through publication. They give the user full control over the openness of their work and allow for the creation of registrations, which can be used when submitting registered reports. ([Source](https://osf.io/))
-- ** re3data.org ****-** a global registry of research data repositories from different academic disciplines. ([Source](http://www.re3data.org/))
-- ** Databib ****-** a searchable registry of research data repositories (S[ource](http://databib.org/)) [Note that the Databib and re3data.org registries will merge by the end of 2015]
-- ** Open Access Directory Data Repositories -** a list of repositories or databases relating to open data. Organised by field subject. ([Source](http://oad.simmons.edu/oadwiki/Data_repositories))
+* **Bitbucket -** Free source code hosting site; [Source](https://bitbucket.org/).
+
+* Clarivate Analytics
+
+* COS
+
+* **CrossRef -** An association of scholarly publishers that develops shared infrastructure to support more effective scholarly communication; [Source](http://www.crossref.org/).
+
+- Digital science
+
+* **Dissem.in -** An online tool that detects papers behind paywalls and invites their authors to upload them in one click to an open repository; [Source](https://dissem.in/).
+
+* **DSpace -** Software for digital open repositories launched by The Massachusetts Institute of Technology (MIT) in 2002; [Source](http://www.dspace.org/).
+
+- Elsevier
+
+* **Eprints -** Software for open digital repositories to self-archiving launched by Southampton University in 2000; [Source](http://www.eprints.org/).
+
+* **Etherpad -** An online, OSS collaborative writing/editing tool operating in real time; [Source](http://etherpad.org/).
+
+* **Flexible Extensible Digital Object and Repository Architecture (FEDORA) -** Software for digital repositories launched by The Cornell and Virginia Universities in 2003; [Source](http://fedorarepository.org/).
+
+* GetTheResearch
+
+* **Git -** An OSS distributed revision control system; [Source](http://git-scm.com/).
+
+* **GitHub -** A web-based service that provides a source code repository that works exclusively with the Git command-line tool; [Source](https://github.com/).
+
+* **Google Scholar -** A freely accessible search engine for indexing the scholarly literature across an array of publishing formats and disciplines; [Source](http://scholar.google.co.uk/).
+
+* **IPython notebook -** A web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document; [Source](http://ipython.org/notebook.html).
+
+* **OAI Media Importer Bot -** A computer program, run by [Daniel Mietchen](https://twitter.com/evomri), that takes figures and video clips from OA articles in PubMed, and copies them to [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page) with full attribution of the original paper. This facilitates the reuse of those files in educational materials or Wikipedia articles.
+
+* **Open Access Button -** Tracks global encounters with paywalls, and helps provide access to papers through a 'wishlist'; [Source](https://www.openaccessbutton.org/).
+
+* **Open Archives Initiative -** Supplies a common framework to web communities that allows them to gain access to content in a standard manner by means of metadata harvesting; [Source](http://openarchives.org/OAI).
+
+* **Open Conference Systems (OCS) -** A free Web publishing tool that will create a complete Web presence for scholarly conferences; [Source](https://pkp.sfu.ca/ocs/).
+
+* **Open Harvester Systems -** A free metadata indexing system; [Source](https://pkp.sfu.ca/ohs/).
+
+* **Open Journal Systems (OJS) -** A journal management and publishing system; [Source](https://pkp.sfu.ca/ojs/).
+
+* **Open Monograph Press -** An OSS platform for managing the editorial workflow required to see monographs, edited volumes, and scholarly editions through internal and external review, editing, cataloguing, production and publication; [Source](https://pkp.sfu.ca/omp/).
+
+* **Paperity** - A multidisciplinary aggregator of OA journals and papers, Gold and Hybrid. Aims to include ultimately 100% of OA literature; [Source](http://paperity.org/).
+
+* **Protocols.IO -** Up-to-date crowdsourced protocol repository; [Source](https://www.protocols.io).
+
+* **Publish or Perish -** Software for retrieving and analysing academic citations; [Source](http://www.harzing.com/pop.htm#about).
+
+* **ScienceOpen -**
+
+* **Stack Overflow -** A Question and Answer site for programming issues; [Source](http://stackoverflow.com/).
 
 
+### Data Repositories
 
-Open Research Infrastructure
+* ** Databib ****-** a searchable registry of research data repositories (S[ource](http://databib.org/)) [Note that the Databib and re3data.org registries will merge by the end of 2015]
 
-- ** Google Scholar -** a freely accessible search engine for indexing the scholarly literature across an array of publishing formats and disciplines. ([Source](http://scholar.google.co.uk/))
+* ** DataONE -** a framework and infrastructure for Earth observational data. [Source](https://www.dataone.org/).
 
-- ** Directory of Open Access Repositories (OpenDOAR) -** a directory of academic open access repositories. Also has a search function for repositories and repository contents. ([Source](http://www.opendoar.org/))
-- ** Directory of Open Access Journals (DOAJ) -** a directory indexing open access peer-reviewed journals ([Source](http://doaj.org/))
-- ** Directory of Open Access Books (DOAB) -** a directory indexing open access peer-reviewed books ([Source](http://doabooks.org/))
-- ** Registry of Open Access Repositories (ROAR) -** a registry for open access repositories, hosted by the University of Southampton, UK. ([Source](http://roar.eprints.org/))
-- ** Registry of Research Data Repositories** - An open science tool that serves as a global registry of research data repositories. ([Source](http://www.re3data.org/))
-- ** PubMed -** a repository comprising more than 24 million citations for the biomedical literature. ([Source](http://www.ncbi.nlm.nih.gov/pubmed))
-- ** PubMed Central (PMC) -** a free full-text archive of biomedical and life sciences journal literature at the US National Institutes of Health&#39;s Library of Medicine. ([Source](http://www.ncbi.nlm.nih.gov/pmc/))
-- ** Europe PubMed Central (EuroPMC) -** Based on PubMed Central, and part of a network of repositories supported by funders of life sciences and biomedical research. ([Source](http://europepmc.org/))
-- ** Repository 66 -** a mashup of data from ROAR and OpenDOAR overlayed onto Google maps. ([Source](http://maps.repository66.org/))
-- ** OpenAIRE -** a pan-European infrastructure that supports the EC&#39;s Open Access Mandate in Horizon2020. All publications funded by the EC should be made available in Open Access and OpenAIRE harvests from a range of data sources namely repositories, OA publishers. ([Source)](http://www.openaire.eu)
+* ** Dryad -** a curated resource that makes the data underlying scientific publications discoverable, freely reusable, and citable. ([Source](http://datadryad.org/))
 
-- ** Scientific Electronic Library Online (SciELO)** - a programme started in Brazil in 1998 which has now expanded to 15 other countries, developed by FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) and BIREME (Centro Latino-americano e do Caribe em Informação em Ciências da Saúde). The objectives are to develop a common methodology for the preparation, storage and dissemination of scientific literature, including standardised evaluation and quality control processes. This comprises a model for cooperative electronic publication of scientific periodicals on the internet using organised bibliographic databases with full text access. ([Source (Portuguese Language)](http://www.scielo.org/php/level.php?lang=pt&amp;component=56&amp;item=1)[(English)](http://www.scielo.org/php/level.php?lang=en&amp;component=42&amp;item=1))
-- ** Securing a Hybrid Environment for Research Preservation and Access **** - **** Rights of MEtadata for Open archiving (SHERPA-RoMEO) **** -** a tool to check what the self-archiving policies for individual journals are. ([Source](http://www.sherpa.ac.uk/romeo))
-- ** Connecting Repositories (CORE) -** a collection of open access repositories. ([Source](http://core.kmi.open.ac.uk/))
-- ** Paperity** - a multidisciplinary aggregator of open access journals and papers, Gold and Hybrid. Aims to include ultimately 100% of open access literature. ([Source](http://paperity.org/))
+* ** figshare -** a repository where users can make all of their research outputs available in a citable, shareable, and discoverable manner. ([Source](http://figshare.com/))
+
+* ** Genbank -** the NIH sequence database comprising an annotated collection of all publicly available DNA sequences. Part of the [International Nucleotide Sequence Database Collaboration](http://www.insdc.org/). ([Source](http://www.ncbi.nlm.nih.gov/genbank/))
+
+* ** Global Biodiversity Information Facility (GBIF) -** contains data about all types of life on Earth, published according to common data standards. ([Source](http://www.gbif.org/))
+
+* ** Knowledge Network for Biocomplexity (KNB) -** a network for the discoverability, access, and interpretation of complex ecological data. ([Source](https://knb.ecoinformatics.org/))
+
+* ** Morphbank -** an image database documenting a range of specimen-based research, including comparative anatomy and taxonomy. Funded by the National Science Foundation. ([Source](http://www.morphbank.net/))
+
+* ** Morphobank -** a web application for collaborative evolutionary research, specifically phylogenetic systematics or cladistics, involving morphology. ([Source](http://www.morphobank.org/))
+
+* ** Open Access Directory Data Repositories -** a list of repositories or databases relating to open data. Organised by field subject. ([Source](http://oad.simmons.edu/oadwiki/Data_repositories))
+
+* ** Open Science Framework ****-** A tool created by the Center for Open Science for scientists. It is both a research and workflow management tool and open repository. Their goal is to link up the entire research ecosystem, from conception through publication. They give the user full control over the openness of their work and allow for the creation of registrations, which can be used when submitting registered reports. ([Source](https://osf.io/))
+
+* ** re3data.org ****-** a global registry of research data repositories from different academic disciplines. ([Source](http://www.re3data.org/))
+
+* **Registry of Research Data Repositories** - An open science tool that serves as a global registry of research data repositories; ([Source](http://www.re3data.org/))
+
+* ** UniProt** - Central repository of protein sequence and annotation data. ([Source](http://www.uniprot.org/))
+
+* ** Worldwide Protein Data Bank (****wwPDB)** - Publicly available repository of macromolecular structural data. ([Source](http://www.wwpdb.org/))
+
+* ** Zenodo ****-** An all-purpose free to use repository for all research outputs. DOIs and flexible licensing. ([Source](https://zenodo.org/)[)](https://zenodo.org/)
+
 
 Miscellaneous
 
 - ** Open Access Movement (OAM) -** a global movement started in the late 1990s and early 2000s fuelled by the widespread public access to the World Wide Web. Its prime objective is the free and unrestricted access and reuse of the world&#39;s knowledge.
-- ** Open Archives Initiative (OAI) -** develops and promotes interoperability standards that aim to facilitate the efficient dissemination of content. ([Source](http://www.openarchives.org/))
 
 - ** Openwashing -** having an appearance of open-source and open-licensing for marketing purposes, while continuing proprietary practices. Coined by [Audrey Watters](https://twitter.com/audreywatters).
 - ** Open Access Directory Events -** conferences and workshop archive related to open access ([Source](http://oad.simmons.edu/oadwiki/Events))
@@ -395,7 +467,6 @@ Miscellaneous
 - ** Computational reproducibility -** when publishing computational findings, include details and access to the underlying code, data, and implementation.
 - ** Empirical reproducibility -** the reproduction of results to obtain &#39;verifiable facts&#39;, through improving existing communication standards and reporting.
 - ** Statistical reproducibility -** validating the statistical results, errors, and confidence measures in research. Also the statistical assessment of repeated results for validation purposes.([post from Victoria Stodden](http://edge.org/annual-question/2014/response/25340))
-- ** Loginwall -** the requirement to log in to a system in order to access content.
 - ** Shibboleth -** a single sign-in system for computer networks and services on the open Internet. ([Wikipedia](http://en.wikipedia.org/wiki/Shibboleth_(Internet2)))
 - ** Athens** - A sign-in system that provides access to library resources. ([Source](http://www.openathens.net/))
 - ** Symplectic -** A world-leading products and services company specialised in research information management. Their flagship system [Elements](http://symplectic.co.uk/products/elements/), is used by a number of the world&#39;s research institutions. ([Source](http://symplectic.co.uk/))
@@ -430,7 +501,7 @@ Miscellaneous
 
 ## Additional Resources
 
-* The [Open Science MOOC resource pages](https://opensciencemooc.eu/modules/open-principles/)
+* The [Open Science MOOC](https://opensciencemooc.eu/) resource pages
 
 * [IRIDIUM](https://dictionary.casrai.org/Category:Research_Data_Domain), the international research data management glossary
 
@@ -439,3 +510,9 @@ Miscellaneous
 * The [Registry of Research data Repositories](https://www.re3data.org/)
 
 * List of [declarations](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA) in support of OA, from the Open Access Directory
+
+*  A [list of data repositories](http://f1000research.com/for-authors/data-guidelines#hosting) approved by F1000Research.
+
+*  A [list of data repositories](http://www.nature.com/sdata/data-policies/repositories) approved by Scientific Data.
+
+* ** Map of Open Educational Resource Repositories -** Map containing locations for items in the directory of Open Educational Resource Repositories. ([Source](https://oerqualityproject.wordpress.com/2013/05/16/map-of-oer-repositories/))
