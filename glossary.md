@@ -24,7 +24,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Open Peer Review (OPR) -**
 
-* **Open Notebooks -**
+* **Open Lab Notebooks -**  A concept of blogging about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained. ([Wikipedia](http://en.wikipedia.org/wiki/Open_notebook_science))
 
 * **Open Materials -**
 
@@ -81,18 +81,22 @@ This glossary is designed to be a resource to inform people about the culture of
 
 ### Types of work often made Open Access
 
-* **Preprint -** A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
-
-* **Postprint -** A manuscript draft after it has been peer reviewed.
-
-* **Version of Record (VOR) -** The final published version of a manuscript in a journal, after peer review and processing by a publisher.
-
 * **Accepted author manuscript (AAM) -** The version of a manuscript that has been formally accepted by a publisher for publication.
 
 * **Eprint** - A digital version of a research document available online within a repository.
 
+* **Postprint -** A manuscript draft after it has been peer reviewed.
 
-### 'Flavours' or 'types of Open Access
+* **Preprint -** A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
+
+* **Pre-registration-**
+
+* **Registered Reports -** A type of publication in which peer review of the suggested methods and protocol is completed prior to data collection and analysis. Accepted papers then are guaranteed publication in the journal if the authors follow through with the registered methodology; [Source](https://osf.io/8mpji/wiki/home/).
+
+* **Version of Record (VOR) -** The final published version of a manuscript in a journal, after peer review and processing by a publisher.
+
+
+### 'Flavours' or 'types' of Open Access
 
 * **Black -**
 
@@ -111,27 +115,27 @@ This glossary is designed to be a resource to inform people about the culture of
 
 ## Declarations And Principles
 
-* [The Declaration of Helsinki](http://www.wma.net/en/30publications/10policies/b3/) - **1964**
+* **1964** - [Declaration of Helsinki](http://www.wma.net/en/30publications/10policies/b3/)
 
-* [Declaration of Havana Towards Equitable Access to Health Information](http://crics5.bvsalud.org/I/declara.htm) - **2001**
+* **2001** - [Declaration of Havana Towards Equitable Access to Health Information](http://crics5.bvsalud.org/I/declara.htm)
 
-* [Budapest Open Access Initiative (BOAI)](http://www.budapestopenaccessinitiative.org/) - **2002**
+* **2002** - [Budapest Open Access Initiative (BOAI)](http://www.budapestopenaccessinitiative.org/)
 
-* [The Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm) - **2003**
+* **2003** - [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm)
 
-* [The Declaration of Berlin on Open Access to Knowledge in the Sciences and Humanities](http://openaccess.mpg.de/Berlin-Declaration) - **2003**
+* **2003** - [Declaration of Berlin on Open Access to Knowledge in the Sciences and Humanities](http://openaccess.mpg.de/Berlin-Declaration)
 
-* [Kronberg Declaration on the Future of Knowledge Acquisition and Sharing](http://portal.unesco.org/ci/en/files/25109/11860402019Kronberg_Declaration.pdf/Kronberg%2BDeclaration.pdf) - **2007**
+* **2007** - [Kronberg Declaration on the Future of Knowledge Acquisition and Sharing](http://portal.unesco.org/ci/en/files/25109/11860402019Kronberg_Declaration.pdf/Kronberg%2BDeclaration.pdf)
 
-* [The Declaration of Brisbane](http://www.watercentre.org/news/declaration) - **2007**
+* **2007** - [Declaration of Brisbane](http://www.watercentre.org/news/declaration)
 
-* [Panton Principles for Open Data](http://pantonprinciples.org/) - **2009**
+* **2009** - [Panton Principles for Open Data](http://pantonprinciples.org/)
 
-* [The Cost of Knowledge Manifesto](http://thecostofknowledge.com/) - **2012**
+* **2012** - [Cost of Knowledge Manifesto](http://thecostofknowledge.com/)
 
-* [The San Francisco](http://am.ascb.org/dora/)[Declaration on Research Assessment (DORA)](http://am.ascb.org/dora/) - **2013**
+* **2013** - [The San Francisco](http://am.ascb.org/dora/)[Declaration on Research Assessment (DORA)](http://am.ascb.org/dora/)
 
-* [The Vienna Principles]()
+* [Vienna Principles]()
 
 * [OCSD Net Principles]()
 
@@ -144,13 +148,13 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Author addendum -** An author addendum is a supplemental or added agreement to a publishing contract that defines or changes the terms of the contract, often focusing on the transfer of copyright ownership. For authors of scholarly works, an author addendum to a publisher's standard publication contract may be necessary to help ensure that authors protect important rights, such as the right to post their articles online to a personal website or in a digital repository; the right to use their works within a classroom setting; or the right to use their works as the foundation for future research; [Source](http://library.pitt.edu/oscp/glossary).
 
-* **BSD (Berkeley Software Distribution) -** A family of UNIX-like operating systems; [Source](http://en.wikipedia.org/wiki/Berkeley_Software_Distribution).
+* **Berkeley Software Distribution (BSD) -** A family of UNIX-like operating systems; [Source](http://en.wikipedia.org/wiki/Berkeley_Software_Distribution).
 
 * **Copyleft -** A form of licensing that makes a creative work freely available to be modified, and requiring all modified and extended versions of the creative work to be free as well. OA does not require works to be copyleft, nor does it necessarily exclude copyleft works from being OA. The recommended licence (CC BY) for academic publishing is not copyleft.
 
 * **Copyright -** The aspect of Intellectual Property that gives creators the right to permit (or not permit) what happens to their creations, as opposed to trademark rights or moral rights.
 
-* **Creative Commons (CC) -** A suite of licences that sets out the rights of authors and users, providing alternatives to the standard copyright. CC licences are widely used, simple to state, machine readable and have been created by legal experts.There are a variety of CC licences, each of which use one or more clauses, examples of which are given below. Some licences are compatible with OA in the 'Budapest sense', and some are not; [Source](https://creativecommons.org/licenses/)).
+* **Creative Commons (CC) -** A popular suite of licences that sets out the rights of authors and users, providing alternatives to the standard copyright. CC licences are widely used, simple to state, machine readable and have been created by legal experts.There are a variety of CC licences, each of which use one or more clauses, examples of which are given below. Some licences are compatible with OA in the 'Budapest sense', and some are not; [Source](https://creativecommons.org/licenses/)).
 
 * **CC Zero (CC 0) - ** Waiver of copyright, with no rights reserved. Places content as openly as possible in the public domain; [Source](http://creativecommons.org/about/cc0).
 
@@ -179,66 +183,92 @@ This glossary is designed to be a resource to inform people about the culture of
 * **Reuse -**
 
 
+## Peer Review
+
+- **Annotations -**
+
+- **Comments -**
+
+- **Double-blind peer review -** When the reviewers do not know who the authors are, and vice versa.
+
+- **Open review reports -** When individual reviews are made openly available, typically alongside the article after it is published.
+
+- **Peer review -** A formal process by which a research article is vetted by experts in community before publication; [Source](http://www.senseaboutscience.org/pages/peer-review.html).
+
+- **Portable peer review -** Independent peer review that travels with a manuscript that is submitted to subsequent different journals, designed to combat redundancy in the peer review process.
+
+- **Post-publication peer review -** Standard peer review, but after a research article has been formally published. Can also be performed on preprints (e.g., through an Overlay Journal).
+
+- **Signed peer review -** When individual reviews are publicly signed by those who conducted them.
+
+- **Single-blind peer review -**
+
+- **Transferable peer review -** Reviews that travel with a paper if it is rejected from a journal.
+
+- **Triple-blind peer review -**
 
 
-Peer Review
+## Assessment And Metrics
 
-- ** Peer review -** a process by which a research article is vetted by experts in community before publication. ([Sense About Science](http://www.senseaboutscience.org/pages/peer-review.html))
-- ** Post publication peer review -** standard peer review, but after a research article has been formally published.
-- ** Transferable peer review -** reviews that travel with a paper if it is rejected from a journal. ([Wiley pilot](http://olabout.wiley.com/WileyCDA/Section/id-819213.html))
-- ** Open review -** when reviews are made openly available, typically alongside the article.
-- ** Signed peer review -** when the individual reviews are publicly signed by those who conducted them.
-- ** Portable peer review -** independent peer review that travels with a manuscript that is submitted to subsequent different journals, designed to combat redundancy in the peer review process. ([Rubriq](http://www.rubriq.com/))
-- ** Double blind peer review -** when the reviewers don&#39;t know who the authors are, and vice versa.
-- ** Registered Reports -** A type of publication in which peer review of the suggested method is completed prior to data collection and analysis. Accepted papers then are guaranteed publication in the journal if the authors follow through with the registered methodology. ([Source](https://osf.io/8mpji/wiki/home/))
+* **Altmetrics -**Altmetrics are alternative ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of scholarships reach and impact. ([Source)](http://library.pitt.edu/oscp/glossary)
 
-Assessment And Metrics
+* **Article-level metrics -** all types of article-level metrics including download and usage statistics, citations, and article-level altmetrics. ([Source](http://library.pitt.edu/oscp/glossary))
 
-- ** Altmetrics -**Altmetrics are alternative ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of scholarships reach and impact. ([Source)](http://library.pitt.edu/oscp/glossary)
-- ** Article-level metrics -** all types of article-level metrics including download and usage statistics, citations, and article-level altmetrics. ([Source](http://library.pitt.edu/oscp/glossary))
-- ** Bibliometrics ****-** Bibliometrics is the branch of library and information science concerned with the application of mathematical and statistical analysis to bibliography. Bibliometrics involves the statistical analysis of books, articles, or other publications.
-- ** Impact factor -** a numerical measure that indicates the average number of citations to articles published over the previous two years in a journal, and frequently used as a proxy for a journal&#39;s relative importance.
-- ** H-index -** a personal metric that relates the number of citations to the number of published papers for an academic. ([Wikipedia](http://en.wikipedia.org/wiki/H-index))
-- ** Journal level metrics -** metrics that apply to all papers published within a journal. A common example is Thomson Reuters&#39; journal impact factor.
+* **Bibliometrics ****-** Bibliometrics is the branch of library and information science concerned with the application of mathematical and statistical analysis to bibliography. Bibliometrics involves the statistical analysis of books, articles, or other publications.
+
+* **H-index -** a personal metric that relates the number of citations to the number of published papers for an academic. ([Wikipedia](http://en.wikipedia.org/wiki/H-index))
+
+* **Impact factor -** a numerical measure that indicates the average number of citations to articles published over the previous two years in a journal, and frequently used as a proxy for a journal&#39;s relative importance.
+
+* **Journal level metrics -** metrics that apply to all papers published within a journal. A common example is Thomson Reuters&#39; journal impact factor.
+
+* **Leiden Manifesto -**
+
+* **Metrics -**
+
+* **San Francisco Decleation on Research Assessment (DORA) -**
+
+* **Source-Normalised Impact Per-Paper (SNIP) -**
 
 
-- ** AnnotatorJS / Hypothes.is** - A framework and application for annotating resources online according to an [emerging W3C standard for web annotations](http://www.w3.org/annotation/). Focus is on scholarly applications. ([Source Annotator](http://annotatorjs.org/) / [Source Hypothes.is](http://hypothes.is/))
-- ** Bitbucket** - Free source code hosting site. ([Source](https://bitbucket.org/))
-- ** Comma-Separated Values, or Character-Separated Values (CSV)** - a plain-text (non-binary) format for tabular data.
-- ** Content mining -** large-scaleextraction of information from content (e.g., photographs, videos, audio, metadata), usually involving thousands of items.(The [ContentMine](http://contentmine.org/))
-- ** Data mining -** an analytic process designed to explore data in search of consistent patterns and/or systematic relationships between variables, and then to transform this information into content for future use. ([Wikipedia](http://en.wikipedia.org/wiki/Data_mining))
-- ** Digital Object Identifier (DOI) ****-** a unique text string that is used to identify digital objects such as journal articles or open source software releases. ([Source](http://www.doi.org/))
-- ** Dissem.in - an online tool that detects papers behind paywalls and invites their authors to upload them in one click to an open repository (**[**Source**](https://dissem.in/)**)**
-- ** DSpace **** -** a software for digital open repositories launched by The Massachusetts Institute of Technology (MIT) in 2002. ([Source](http://www.dspace.org/))
-- ** Etherpad** - An online, open source collaborative writing/editing tool operating in real time. ([Source](http://etherpad.org/))
-- ** Eprints -** a software for open digital repositories to self-archiving launched by Southampton University in 2000. ([Source](http://www.eprints.org/))
-- ** Extensible Markup Language (XML)** - A language that defines a set of rules for encoding documents in a format that is readable by both machines and humans. ([Wikipedia](http://en.wikipedia.org/wiki/Altmetrics))
-- ** Flexible Extensible Digital Object and Repository Architecture (FEDORA) **** -** a software for digital repositories launched by The Cornell and Virginia Universities in 2003. ([Source](http://fedorarepository.org/))
-- ** Git -** an open-source, distributed revision control system. ([Source](http://git-scm.com/))
-- ** GitHub -** a web-based service that provides a source code repository that works exclusively with the Git command-line tool. ([Source](https://github.com/))
-- ** Hypertext Markup Language (HTML) -** the set of markup symbols or codes inserted in a file intended for display on a browser page. ([Wikipedia](http://en.wikipedia.org/wiki/HTML))
-- ** IPython notebook -** a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. ([Source](http://ipython.org/notebook.html))
-- ** Journal Article Tag Suite (JATS) -** a common XML format in which publishers and archives can exchange journal content. ([Source](http://www.niso.org/apps/group_public/download.php/10591/z39.96-2012.pdf))
-- ** LaTeX ****-** a markup language for typesetting documents, particularly common in mathematics and the sciences. Many academic journals accept submissions in LaTeX. ([Source](http://www.latex-project.org))
-- ** Machine readable -** data or metadata in a format that can be understood by a computer.
-- ** Machine Readable Cataloguing (MARC) -** a set of digital formats for the description of items catalogued by libraries. ([Wikipedia](http://en.wikipedia.org/wiki/MARC_standards))
-- ** Markdown** - a syntax for adding formatting to documents allowing correctly formatted articles to be written in plain text. ([Wikipedia](http://en.wikipedia.org/wiki/Markdown))
-- ** OAI Media Importer Bot -** A computer program, run by [Daniel Mietchen](https://twitter.com/evomri), that takes figures and video clips from Open Access articles in PubMed, and copies them to [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page) with full attribution of the original paper. This facilitates the reuse of those files in educational materials or Wikipedia articles.
-- ** Open Access Button -** Tracks global encounters with paywalls, and helps provide access to papers through a &#39;wishlist&#39;. ([Source](https://www.openaccessbutton.org/))
-- ** Open Archives Initiative ****-** Supplies a common framework to web communities that allows them to gain access to content in a standard manner by means of metadata harvesting. ([Source](http://openarchives.org/OAI))
-- ** Open Conference Systems (OCS) -** a free Web publishing tool that will create a complete Web presence for scholarly conferences. ([Source](https://pkp.sfu.ca/ocs/))
-- ** Open Harvester Systems -** a free metadata indexing system. ([Source](https://pkp.sfu.ca/ohs/))
-- ** Open Journal Systems (OJS) -** a journal management and publishing system. ([Source](https://pkp.sfu.ca/ojs/))
-- ** Open lab notebooks -** a concept of blogging about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained. ([Wikipedia](http://en.wikipedia.org/wiki/Open_notebook_science))
-- ** Open Monograph Press -** an open source software platform for managing the editorial workflow required to see monographs, edited volumes, and scholarly editions through internal and external review, editing, cataloguing, production and publication. ([Source](https://pkp.sfu.ca/omp/))
-- ** ORCID -** a persistent digital identifier that distinguishes individual researchers. Also supports integration in research workflows. ([Source](http://orcid.org/))
-- ** ProtocolsIO -** Up-to-date crowdsourced protocol repository ([Source](https://www.protocols.io))
-- ** Publish or Perish -** software for retrieving and analysing academic citations. ([Source](http://www.harzing.com/pop.htm#about))
-- ** ResearcherID -** assigns a unique identifier for researchers to manager publication ists, track citations, and avoid author mis-identification. ([Source](http://www.researcherid.com/Home.action?returnCode=ROUTER.Unauthorized&amp;SrcApp=CR&amp;Init=Yes))
-- ** Scalable Vector Graphics (SVG) -** a format for images that is open rather than tied to particular software, resolution-independent (unlike GIF, PNG and JPG), and structured so that with appropriate software it is relatively easy, for example, to translate labels into different languages.
-- ** Scraping -** a computing technique to extract information from websites. ([Wikipedia](http://en.wikipedia.org/wiki/Web_scraping))
-- ** Stack Overflow -** A Question and Answer site for programming issues. ([Source](http://stackoverflow.com/))
-- ** Uniform Resource Identifier (URI) -** a string of characters used to identify a name of a resource to enable its digital and networked representation and interaction. ([Wikipedia](http://en.wikipedia.org/wiki/Uniform_resource_identifier))
+## Selected tools, platforms, and services
+
+* ** AnnotatorJS / Hypothes.is** - A framework and application for annotating resources online according to an [emerging W3C standard for web annotations](http://www.w3.org/annotation/). Focus is on scholarly applications. ([Source Annotator](http://annotatorjs.org/) / [Source Hypothes.is](http://hypothes.is/))
+* ** Bitbucket** - Free source code hosting site. ([Source](https://bitbucket.org/))
+* ** Comma-Separated Values, or Character-Separated Values (CSV)** - a plain-text (non-binary) format for tabular data.
+* ** Content mining -** large-scaleextraction of information from content (e.g., photographs, videos, audio, metadata), usually involving thousands of items.(The [ContentMine](http://contentmine.org/))
+* ** Data mining -** an analytic process designed to explore data in search of consistent patterns and/or systematic relationships between variables, and then to transform this information into content for future use. ([Wikipedia](http://en.wikipedia.org/wiki/Data_mining))
+* ** Digital Object Identifier (DOI) ****-** a unique text string that is used to identify digital objects such as journal articles or open source software releases. ([Source](http://www.doi.org/))
+* ** Dissem.in - an online tool that detects papers behind paywalls and invites their authors to upload them in one click to an open repository (**[**Source**](https://dissem.in/)**)**
+* ** DSpace **** -** a software for digital open repositories launched by The Massachusetts Institute of Technology (MIT) in 2002. ([Source](http://www.dspace.org/))
+* ** Etherpad** - An online, open source collaborative writing/editing tool operating in real time. ([Source](http://etherpad.org/))
+* ** Eprints -** a software for open digital repositories to self-archiving launched by Southampton University in 2000. ([Source](http://www.eprints.org/))
+* ** Extensible Markup Language (XML)** - A language that defines a set of rules for encoding documents in a format that is readable by both machines and humans. ([Wikipedia](http://en.wikipedia.org/wiki/Altmetrics))
+* ** Flexible Extensible Digital Object and Repository Architecture (FEDORA) **** -** a software for digital repositories launched by The Cornell and Virginia Universities in 2003. ([Source](http://fedorarepository.org/))
+* ** Git -** an open-source, distributed revision control system. ([Source](http://git-scm.com/))
+* ** GitHub -** a web-based service that provides a source code repository that works exclusively with the Git command-line tool. ([Source](https://github.com/))
+* ** Hypertext Markup Language (HTML) -** the set of markup symbols or codes inserted in a file intended for display on a browser page. ([Wikipedia](http://en.wikipedia.org/wiki/HTML))
+* ** IPython notebook -** a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. ([Source](http://ipython.org/notebook.html))
+* ** Journal Article Tag Suite (JATS) -** a common XML format in which publishers and archives can exchange journal content. ([Source](http://www.niso.org/apps/group_public/download.php/10591/z39.96-2012.pdf))
+* ** LaTeX ****-** a markup language for typesetting documents, particularly common in mathematics and the sciences. Many academic journals accept submissions in LaTeX. ([Source](http://www.latex-project.org))
+* ** Machine readable -** data or metadata in a format that can be understood by a computer.
+* ** Machine Readable Cataloguing (MARC) -** a set of digital formats for the description of items catalogued by libraries. ([Wikipedia](http://en.wikipedia.org/wiki/MARC_standards))
+* ** Markdown** - a syntax for adding formatting to documents allowing correctly formatted articles to be written in plain text. ([Wikipedia](http://en.wikipedia.org/wiki/Markdown))
+* ** OAI Media Importer Bot -** A computer program, run by [Daniel Mietchen](https://twitter.com/evomri), that takes figures and video clips from Open Access articles in PubMed, and copies them to [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page) with full attribution of the original paper. This facilitates the reuse of those files in educational materials or Wikipedia articles.
+* ** Open Access Button -** Tracks global encounters with paywalls, and helps provide access to papers through a &#39;wishlist&#39;. ([Source](https://www.openaccessbutton.org/))
+* ** Open Archives Initiative ****-** Supplies a common framework to web communities that allows them to gain access to content in a standard manner by means of metadata harvesting. ([Source](http://openarchives.org/OAI))
+* ** Open Conference Systems (OCS) -** a free Web publishing tool that will create a complete Web presence for scholarly conferences. ([Source](https://pkp.sfu.ca/ocs/))
+* ** Open Harvester Systems -** a free metadata indexing system. ([Source](https://pkp.sfu.ca/ohs/))
+* ** Open Journal Systems (OJS) -** a journal management and publishing system. ([Source](https://pkp.sfu.ca/ojs/))
+* ** Open Monograph Press -** an open source software platform for managing the editorial workflow required to see monographs, edited volumes, and scholarly editions through internal and external review, editing, cataloguing, production and publication. ([Source](https://pkp.sfu.ca/omp/))
+* ** ORCID -** a persistent digital identifier that distinguishes individual researchers. Also supports integration in research workflows. ([Source](http://orcid.org/))
+* ** ProtocolsIO -** Up-to-date crowdsourced protocol repository ([Source](https://www.protocols.io))
+* ** Publish or Perish -** software for retrieving and analysing academic citations. ([Source](http://www.harzing.com/pop.htm#about))
+* ** ResearcherID -** assigns a unique identifier for researchers to manager publication ists, track citations, and avoid author mis-identification. ([Source](http://www.researcherid.com/Home.action?returnCode=ROUTER.Unauthorized&amp;SrcApp=CR&amp;Init=Yes))
+* ** Scalable Vector Graphics (SVG) -** a format for images that is open rather than tied to particular software, resolution-independent (unlike GIF, PNG and JPG), and structured so that with appropriate software it is relatively easy, for example, to translate labels into different languages.
+* ** Scraping -** a computing technique to extract information from websites. ([Wikipedia](http://en.wikipedia.org/wiki/Web_scraping))
+* ** Stack Overflow -** A Question and Answer site for programming issues. ([Source](http://stackoverflow.com/))
+* ** Uniform Resource Identifier (URI) -** a string of characters used to identify a name of a resource to enable its digital and networked representation and interaction. ([Wikipedia](http://en.wikipedia.org/wiki/Uniform_resource_identifier))
 
 Data Repositories
 
