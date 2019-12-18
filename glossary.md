@@ -4,8 +4,8 @@ author: "Jon Tennant and Ross Mounce"
 date: 'January 2020'
 output:
   word_document: default
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 This resource is based on the original created by [Jon Tennant](https://twitter.com/Protohedgehog/) and [Ross Mounce](https://twitter.com/rmounce).
