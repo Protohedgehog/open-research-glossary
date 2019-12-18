@@ -50,7 +50,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Fee waiver -** If an institution, research funder or author cannot pay for an APC, many publishers or journals will offer partial or total waiving for fees; [Source](http://www.mdpi.com/2304-6775/3/3/155).
 
-* **Legacy publisher -** A publisher that historically has operated primarily on a paywall-basedbusiness model.
+* **Legacy publisher -** A publisher that historically has operated primarily on a paywall-based business model.
 
 * **Library-based publishing -** Many academic libraries are now beginning to act as publishers for scholarly works produced in their institutions and elsewhere.  In some cases, the library works with the university scholarly press to publish works. In other cases, the library publishes works independently or separately from the academic press. Library-based publishers are often strongly in favor of Open Access; [Source](http://www.librarypublishing.org).
 
@@ -203,7 +203,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Intellectual property (IP) -** A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
 
-* **Intellectual Property Rights (IPR) -** The rights given to the owners of intellectual property. IPR is protected either automatically (e.g., via copyright or design rights) or by registering or applying for it (e.g., trademarks, patents). Protecting your IP makes it easier to take legal action against anyone who steals or copies it. IPR can be legally sold, assigned or licenced by the creator to other parties, or jointly-owned.
+* **Intellectual Property Rights (IPR) -** The rights given to the owners of intellectual property. IPR is protected either automatically (e.g., via copyright or design rights) or by registering or applying for it (e.g., trademarks, patents). Protecting your IP makes it easier to take legal action against anyone who steals or copies it. IPR can be legally sold, assigned or licensed by the creator to other parties, or jointly-owned.
 
 * **MIT License -** A popular open and permissive software license; [Source](http://opensource.org/licenses/MIT).
 
@@ -321,15 +321,15 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **PubMed Central (PMC) -** A free full-text archive of biomedical and life sciences journal literature at the US National Institutes of Health's Library of Medicine; [Source](http://www.ncbi.nlm.nih.gov/pmc/).
 
-* **Repository 66 -** A mashup of data from ROAR and OpenDOAR overlayed onto Google maps; [Source](http://maps.repository66.org/).
+* **Repository 66 -** A mash-up of data from ROAR and OpenDOAR overlayed onto Google maps; [Source](http://maps.repository66.org/).
 
-* **OpenAIRE -** A pan-European infrastructure that supports the EC&#39;s Open Access Mandate in Horizon2020. All publications funded by the EC should be made available in Open Access and OpenAIRE harvests from a range of data sources namely repositories, OA publishers. ([Source)](http://www.openaire.eu)
+* **OpenAIRE -** A pan-European infrastructure that supports the European Commision's OA Mandate in Horizon2020. All publications funded by the EC should be made available in Open Access and OpenAIRE harvests from a range of data sources namely repositories, OA publishers. ([Source)](http://www.openaire.eu)
 
 * **OPERAS -**
 
 * **REDALYC -**
 
-* **Scientific Electronic Library Online (SciELO) -** A programme started in Brazil in 1998 which has now expanded to 15 other countries, developed by FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) and BIREME (Centro Latino-americano e do Caribe em Informação em Ciências da Saúde). The objectives are to develop a common methodology for the preparation, storage and dissemination of scientific literature, including standardised evaluation and quality control processes. This comprises a model for cooperative electronic publication of scientific periodicals on the internet using organised bibliographic databases with full text access; Source, in [Portuguese](http://www.scielo.org/php/level.php?lang=pt&amp;component=56&amp;item=1) and in [English](http://www.scielo.org/php/level.php?lang=en&amp;component=42&amp;item=1).
+* **Scientific Electronic Library Online (SciELO) -** A programme started in Brazil in 1998 which has now expanded to 15 other countries, developed by FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) and BIREME (Centro Latino-americano e do Caribe em Informação em Ciências da Saúde). The objectives are to develop a common methodology for the preparation, storage and dissemination of scientific literature, including standardized evaluation and quality control processes. This comprises a model for cooperative electronic publication of scientific periodicals on the internet using organised bibliographic databases with full text access; Source, in [Portuguese](http://www.scielo.org/php/level.php?lang=pt&amp;component=56&amp;item=1) and in [English](http://www.scielo.org/php/level.php?lang=en&amp;component=42&amp;item=1).
 
 * **Securing a Hybrid Environment for Research Preservation and Access - Rights of MEtadata for Open archiving (SHERPA-RoMEO) -** A tool to check what the self-archiving policies for individual journals are; [Source](http://www.sherpa.ac.uk/romeo).
 
@@ -369,7 +369,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **ORCID -** A persistent digital identifier that distinguishes individual researchers. Also supports integration in research workflows; [Source](http://orcid.org/).
 
-* **ResearcherID -** Assigns a unique identifier for researchers to manager publication ists, track citations, and avoid author mis-identification; [Source](http://www.researcherid.com/).
+* **ResearcherID -** Assigns a unique identifier for researchers to manager publication lists, track citations, and avoid author mis-identification; [Source](http://www.researcherid.com/).
 
 * **Scalable Vector Graphics (SVG) -** A format for images that is open rather than tied to particular software, resolution-independent (unlike GIF, PNG and JPG), and structured so that with appropriate software it is relatively easy, for example, to translate labels into different languages.
 
@@ -430,9 +430,9 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Paperity** - A multidisciplinary aggregator of OA journals and papers, Gold and Hybrid. Aims to include ultimately 100% of OA literature; [Source](http://paperity.org/).
 
-* **Protocols.IO -** Up-to-date crowdsourced protocol repository; [Source](https://www.protocols.io).
+* **Protocols.IO -** Up-to-date crowd-sourced protocol repository; [Source](https://www.protocols.io).
 
-* **Publish or Perish -** Software for retrieving and analysing academic citations; [Source](http://www.harzing.com/pop.htm#about).
+* **Publish or Perish -** Software for retrieving and analyzing academic citations; [Source](http://www.harzing.com/pop.htm#about).
 
 * **ScienceOpen -**
 
@@ -440,7 +440,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Stack Overflow -** A Question and Answer site for programming issues; [Source](http://stackoverflow.com/).
 
-* **Symplectic -** A world-leading products and services company specialised in research information management. Their flagship system, [Elements](http://symplectic.co.uk/products/elements/), is used by a number of the world's research institutions; [Source](http://symplectic.co.uk/).
+* **Symplectic -** A world-leading products and services company specialized in research information management. Their flagship system, [Elements](http://symplectic.co.uk/products/elements/), is used by a number of the world's research institutions; [Source](http://symplectic.co.uk/).
 
 * Zotero
 
@@ -480,7 +480,7 @@ This glossary is designed to be a resource to inform people about the culture of
 * **Zenodo -** An all-purpose free to use repository for all research outputs, with DOIs and flexible licensing; [Source](https://zenodo.org/).
 
 
-### Miscellaneous
+## Miscellaneous
 
 * **Accessibility -** Refers to the degree of access. Defined by an end-user basis, depending on their ability to understand or reuse content.
 
@@ -496,7 +496,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Mandate -** An authority to carry out a policy. In this context, largely to conform to OA policies.
 
-* **Open Access Movement (OAM) -** A global movement started in the late 1990s and early 2000s fuelled by the widespread public access to the World Wide Web. Its prime objective is the free and unrestricted access and reuse of the world's knowledge.
+* **Open Access Movement (OAM) -** A global movement started in the late 1990s and early 2000s fueled by the widespread public access to the World Wide Web. Its prime objective is the free and unrestricted access and reuse of the world's knowledge.
 
 * **Open Access Directory Events -** Conferences and workshop archive related to OA; [Source](http://oad.simmons.edu/oadwiki/Events).
 
