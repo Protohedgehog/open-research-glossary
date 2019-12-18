@@ -12,32 +12,32 @@ This glossary is designed to be a resource to inform people about the culture of
 
 ## Core Definitions underlying Open Research
 
-* **Open Access (OA) -** Making peer reviewed scholarly manuscripts freely available via the Internet, permitting any user to read, download, copy, distribute, print, search, or link to the full text of these articles, crawl them for indexing, pass them as data to software, or use them for any lawful purpose, without financial, legal or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited. May also refer to theses, books, book chapters, monographs and other content. ([BOAI](http://www.budapestopenaccessinitiative.org/))
+* **Open Access (OA) -** Making peer reviewed scholarly manuscripts freely available via the Internet, permitting any user to read, download, copy, distribute, print, search, or link to the full text of these articles, crawl them for indexing, pass them as data to software, or use them for any lawful purpose, without financial, legal or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited. May also refer to theses, books, book chapters, monographs and other content; [Source](http://www.budapestopenaccessinitiative.org/).
 
-* **Open Data (OD) -** Making data freely available on the public internet permitting any user to download, copy, analyse, re-process, pass them to software or use them for any other purpose without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself. ([Panton Principles](http://pantonprinciples.org/))
+* **Open Data (OD) -** Making data freely available on the public internet permitting any user to download, copy, analyse, re-process, pass them to software or use them for any other purpose without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself; [Source](http://pantonprinciples.org/).
 
-* **Open Educational Resources (OER) -** Making high quality, openly licensed, online educational materials available for sharing, use, and reuse. They act as a mechanism for instructional innovation as networks of teachers and learners share best practices. ([Source](http://www.hewlett.org/programs/education/open-educational-resources))
+* **Open Educational Resources (OER) -** Making high quality, openly licensed, online educational materials available for sharing, use, and reuse. They act as a mechanism for instructional innovation as networks of teachers and learners share best practices; [Source](http://www.hewlett.org/programs/education/open-educational-resources).
 
-* **Open Source Software (OSS) -** Availability of source code for a piece of software, along with an [Open Source license](http://opensource.org/licenses/) permitting reuse, adaptation, and further distribution. ([Wikipedia](http://en.wikipedia.org/wiki/Open-source_software))
+* **Open Source Software (OSS) -** Availability of source code for a piece of software, along with an [Open Source license](http://opensource.org/licenses/) permitting reuse, adaptation, and further distribution; [Source](http://en.wikipedia.org/wiki/Open-source_software).
 
 * **Citizen Science -**
 
 * **Open Peer Review (OPR) -**
 
-* **Open Lab Notebooks -**  A concept of blogging about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained. ([Wikipedia](http://en.wikipedia.org/wiki/Open_notebook_science))
+* **Open Lab Notebooks -**  A concept of blogging about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained; [Source](http://en.wikipedia.org/wiki/Open_notebook_science).
 
 * **Open Materials -**
 
 
-## Terms relating scholarly publishing
+## Scholarly publishing
 
-* **Article Processing Charge (APC) -** A fee charged to the author, creator, or institution to cover the cost of publishing an article, rather than charging the potential reader of the article. APCs may apply to both subscription-based and Open Access publications. APCs are sometimes charged to authors in order to cover the cost of publishing and disseminating an article in an Open Access scholarly journal. ([Source](http://openaccess.ox.ac.uk/glossary/))
+* **Article Processing Charge (APC) -** A fee charged to the author, creator, or institution to cover the cost of publishing an article, rather than charging the potential reader of the article. APCs may apply to both subscription-based and Open Access publications. APCs are sometimes charged to authors in order to cover the cost of publishing and disseminating an article in an Open Access scholarly journal; [Source](http://openaccess.ox.ac.uk/glossary/).
 
 * **Embargo period -** A length of time imposed on a research output for users who have not paid for access, or do not have institutional access, before it is made freely available. Typically refers to peer-reviewed versions of manuscripts.
 
 * **Legacy publisher -** A publisher that historically has operated primarily on a paywall-basedbusiness model.
 
-* ** Library-based publishing -** Many academic libraries are now beginning to act as publishers for scholarly works produced in their institutions and elsewhere.  In some cases, the library works with the university scholarly press to publish works. In other cases, the library publishes works independently or separately from the academic press. Library-based publishers are often strongly in favor of Open Access; [Source](http://www.librarypublishing.org).
+* **Library-based publishing -** Many academic libraries are now beginning to act as publishers for scholarly works produced in their institutions and elsewhere.  In some cases, the library works with the university scholarly press to publish works. In other cases, the library publishes works independently or separately from the academic press. Library-based publishers are often strongly in favor of Open Access; [Source](http://www.librarypublishing.org).
 
 * **Loginwall -** A barrier that prevents access by requiring users to register and login to a service, without asking for money to unlock access.
 
@@ -64,7 +64,9 @@ This glossary is designed to be a resource to inform people about the culture of
 * **Toll access -** A system whereby a fee is required to pass a paywall to access research.
 
 
-### Journal Types
+### Journal or publication Types
+
+* **Book -**
 
 * **Epub -** A free and open [e-book](http://en.wikipedia.org/wiki/E-book) standard by the [International Digital publishing Forum](http://en.wikipedia.org/wiki/International_Digital_Publishing_Forum).
 
@@ -73,6 +75,8 @@ This glossary is designed to be a resource to inform people about the culture of
 * **Journal -** An aggregation of published research articles, either digital or printed or both. Historically divided into volumes and issues.
 
 * **Megajournal -** A journal with editorial criteria based on scientific soundness instead of a priori estimated newsworthiness or "impact". They typically cover all research disciplines.
+
+* **Monograph -**
 
 * **Open Access journal -** A journal that exclusively comprises Open Access articles.
 
@@ -210,50 +214,99 @@ This glossary is designed to be a resource to inform people about the culture of
 
 ## Assessment And Metrics
 
-* **Altmetrics -**Altmetrics are alternative ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of scholarships reach and impact. ([Source)](http://library.pitt.edu/oscp/glossary)
+* **Altmetrics -** Altmetrics are "alternative"" ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of scholarships reach and impact; [Source](http://library.pitt.edu/oscp/glossary).
 
-* **Article-level metrics -** all types of article-level metrics including download and usage statistics, citations, and article-level altmetrics. ([Source](http://library.pitt.edu/oscp/glossary))
+* **Article-level metrics -** All types of article-level metrics including download and usage statistics, citations, and article-level altmetrics; [Source](http://library.pitt.edu/oscp/glossary).
 
 * **Bibliometrics ****-** Bibliometrics is the branch of library and information science concerned with the application of mathematical and statistical analysis to bibliography. Bibliometrics involves the statistical analysis of books, articles, or other publications.
 
-* **H-index -** a personal metric that relates the number of citations to the number of published papers for an academic. ([Wikipedia](http://en.wikipedia.org/wiki/H-index))
+* **H-index -** A personal metric that relates the number of citations to the number of published papers for an academic. It measures the number of papers (n) that have been cited n times; [Source](http://en.wikipedia.org/wiki/H-index).
 
-* **Impact factor -** a numerical measure that indicates the average number of citations to articles published over the previous two years in a journal, and frequently used as a proxy for a journal&#39;s relative importance.
+* **Impact factor -** A numerical measure that indicates the average number of citations to articles published over the previous two years in a journal, and frequently used as a proxy for a journal's relative importance. It is frequently mis-used to evaluate articles and individuals.
 
-* **Journal level metrics -** metrics that apply to all papers published within a journal. A common example is Thomson Reuters&#39; journal impact factor.
+* **Journal-level metrics -** Metrics that apply to all papers published within a journal. A common example is the journal Impact Factor.
 
 * **Leiden Manifesto -**
 
 * **Metrics -**
 
-* **San Francisco Decleation on Research Assessment (DORA) -**
+* **San Francisco Declaration on Research Assessment (DORA) -**
+
+* **Scientometrics -**
 
 * **Source-Normalised Impact Per-Paper (SNIP) -**
 
 
-## Selected tools, platforms, and services
+## Organisations
+
+### Funders And Policy-Related
+
+- ** Research Councils UK (RCUK) ****-** The primary government research funding body in the UK. ([Open Access policy](http://www.rcuk.ac.uk/research/openaccess/))
+
+- ** Jisc -** A UK educational charity, independent but primarily funded by HEFCE. Provides expertise to universities, colleges and cultural institutions on the use of technology to support research, including publication models, repositories, licensing, and infrastructure. ([Source](http://www.jisc.ac.uk/))
+
+- ** National Institute of Health (NIH) -** The national medical research agency in the USA. (Public[Access policy](http://publicaccess.nih.gov/))
+
+- ** National Science Foundation (NSF) -** an independent federal agency in the USA for the funding of research. (Public[Access policy](https://www.nsf.gov/about/budget/fy2014/pdf/45_fy2014.pdf))
+
+- ** Wellcome Trust -** A life sciences charity and funding body in the UK ([Open Access policy](http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm))
+
+- ** Research Excellence Framework (REF) ****-** An initiative to assess the quality of research undertaken in UK higher education institutions. Coordinated by HEFCE.
+
+- ** Gates Foundation -** A funding body co-ordinated by Melinda and Bill Gates. ([Open Access policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy))
+
+- ** Max Planck Society -** a German research organisation with 82 Institutes worldwide. ([Open Access policy](http://openaccess.mpg.de/2365/en))
+
+
+
+
+### Advocacy organisations
+
+- ** Open Access Scholarly Publishers Association (OASPA) -** represents the interests of open access journal and book publishers in all scientific, technical, and scholarly disciplines. ([Source](http://oaspa.org/))
+
+- ** Scholarly Publishing and Academic Resources Coalition (SPARC) -** an international alliance of academic and research libraries working to create a more open system of scholarly communication. ([Source](http://www.sparc.arl.org/))
+
+
+### Service providers
+
+- ** CrossRef -** an association of scholarly publishers that develops shared infrastructure to support more effective scholarly communication. ([Source](http://www.crossref.org/))
+- ** Public Knowledge Project (PKP) ****-** a multi-university initiative developing free, open source software and conducting research to improve the quality and reach of scholarly publishing. ([Source](https://pkp.sfu.ca/))
+- GetTheResearch
+- Digital science
+- Clarivate Analytics
+- Elsevier
+- 
+
+## Tools and platforms
+
+
+### Formats, identifiers and standards
+
+* ** Comma-Separated Values, or Character-Separated Values (CSV)** - a plain-text (non-binary) format for tabular data.
+* ** Digital Object Identifier (DOI) ****-** a unique text string that is used to identify digital objects such as journal articles or open source software releases. ([Source](http://www.doi.org/))
+* ** Extensible Markup Language (XML)** - A language that defines a set of rules for encoding documents in a format that is readable by both machines and humans. ([Wikipedia](http://en.wikipedia.org/wiki/Altmetrics))
+* ** Hypertext Markup Language (HTML) -** the set of markup symbols or codes inserted in a file intended for display on a browser page. ([Wikipedia](http://en.wikipedia.org/wiki/HTML))
+* ** Journal Article Tag Suite (JATS) -** a common XML format in which publishers and archives can exchange journal content. ([Source](http://www.niso.org/apps/group_public/download.php/10591/z39.96-2012.pdf))
+* ** LaTeX ****-** a markup language for typesetting documents, particularly common in mathematics and the sciences. Many academic journals accept submissions in LaTeX. ([Source](http://www.latex-project.org))
+* ** Machine Readable Cataloguing (MARC) -** a set of digital formats for the description of items catalogued by libraries. ([Wikipedia](http://en.wikipedia.org/wiki/MARC_standards))
+* ** Markdown** - a syntax for adding formatting to documents allowing correctly formatted articles to be written in plain text. ([Wikipedia](http://en.wikipedia.org/wiki/Markdown))
+* ** Uniform Resource Identifier (URI) -** a string of characters used to identify a name of a resource to enable its digital and networked representation and interaction. ([Wikipedia](http://en.wikipedia.org/wiki/Uniform_resource_identifier))
+* ** Scalable Vector Graphics (SVG) -** a format for images that is open rather than tied to particular software, resolution-independent (unlike GIF, PNG and JPG), and structured so that with appropriate software it is relatively easy, for example, to translate labels into different languages.
+* ** ResearcherID -** assigns a unique identifier for researchers to manager publication ists, track citations, and avoid author mis-identification. ([Source](http://www.researcherid.com/Home.action?returnCode=ROUTER.Unauthorized&amp;SrcApp=CR&amp;Init=Yes))
+* ** ORCID -** a persistent digital identifier that distinguishes individual researchers. Also supports integration in research workflows. ([Source](http://orcid.org/))
+
 
 * ** AnnotatorJS / Hypothes.is** - A framework and application for annotating resources online according to an [emerging W3C standard for web annotations](http://www.w3.org/annotation/). Focus is on scholarly applications. ([Source Annotator](http://annotatorjs.org/) / [Source Hypothes.is](http://hypothes.is/))
 * ** Bitbucket** - Free source code hosting site. ([Source](https://bitbucket.org/))
-* ** Comma-Separated Values, or Character-Separated Values (CSV)** - a plain-text (non-binary) format for tabular data.
-* ** Content mining -** large-scaleextraction of information from content (e.g., photographs, videos, audio, metadata), usually involving thousands of items.(The [ContentMine](http://contentmine.org/))
-* ** Data mining -** an analytic process designed to explore data in search of consistent patterns and/or systematic relationships between variables, and then to transform this information into content for future use. ([Wikipedia](http://en.wikipedia.org/wiki/Data_mining))
-* ** Digital Object Identifier (DOI) ****-** a unique text string that is used to identify digital objects such as journal articles or open source software releases. ([Source](http://www.doi.org/))
 * ** Dissem.in - an online tool that detects papers behind paywalls and invites their authors to upload them in one click to an open repository (**[**Source**](https://dissem.in/)**)**
 * ** DSpace **** -** a software for digital open repositories launched by The Massachusetts Institute of Technology (MIT) in 2002. ([Source](http://www.dspace.org/))
 * ** Etherpad** - An online, open source collaborative writing/editing tool operating in real time. ([Source](http://etherpad.org/))
 * ** Eprints -** a software for open digital repositories to self-archiving launched by Southampton University in 2000. ([Source](http://www.eprints.org/))
-* ** Extensible Markup Language (XML)** - A language that defines a set of rules for encoding documents in a format that is readable by both machines and humans. ([Wikipedia](http://en.wikipedia.org/wiki/Altmetrics))
 * ** Flexible Extensible Digital Object and Repository Architecture (FEDORA) **** -** a software for digital repositories launched by The Cornell and Virginia Universities in 2003. ([Source](http://fedorarepository.org/))
 * ** Git -** an open-source, distributed revision control system. ([Source](http://git-scm.com/))
 * ** GitHub -** a web-based service that provides a source code repository that works exclusively with the Git command-line tool. ([Source](https://github.com/))
-* ** Hypertext Markup Language (HTML) -** the set of markup symbols or codes inserted in a file intended for display on a browser page. ([Wikipedia](http://en.wikipedia.org/wiki/HTML))
 * ** IPython notebook -** a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. ([Source](http://ipython.org/notebook.html))
-* ** Journal Article Tag Suite (JATS) -** a common XML format in which publishers and archives can exchange journal content. ([Source](http://www.niso.org/apps/group_public/download.php/10591/z39.96-2012.pdf))
-* ** LaTeX ****-** a markup language for typesetting documents, particularly common in mathematics and the sciences. Many academic journals accept submissions in LaTeX. ([Source](http://www.latex-project.org))
 * ** Machine readable -** data or metadata in a format that can be understood by a computer.
-* ** Machine Readable Cataloguing (MARC) -** a set of digital formats for the description of items catalogued by libraries. ([Wikipedia](http://en.wikipedia.org/wiki/MARC_standards))
-* ** Markdown** - a syntax for adding formatting to documents allowing correctly formatted articles to be written in plain text. ([Wikipedia](http://en.wikipedia.org/wiki/Markdown))
 * ** OAI Media Importer Bot -** A computer program, run by [Daniel Mietchen](https://twitter.com/evomri), that takes figures and video clips from Open Access articles in PubMed, and copies them to [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_Page) with full attribution of the original paper. This facilitates the reuse of those files in educational materials or Wikipedia articles.
 * ** Open Access Button -** Tracks global encounters with paywalls, and helps provide access to papers through a &#39;wishlist&#39;. ([Source](https://www.openaccessbutton.org/))
 * ** Open Archives Initiative ****-** Supplies a common framework to web communities that allows them to gain access to content in a standard manner by means of metadata harvesting. ([Source](http://openarchives.org/OAI))
@@ -261,14 +314,9 @@ This glossary is designed to be a resource to inform people about the culture of
 * ** Open Harvester Systems -** a free metadata indexing system. ([Source](https://pkp.sfu.ca/ohs/))
 * ** Open Journal Systems (OJS) -** a journal management and publishing system. ([Source](https://pkp.sfu.ca/ojs/))
 * ** Open Monograph Press -** an open source software platform for managing the editorial workflow required to see monographs, edited volumes, and scholarly editions through internal and external review, editing, cataloguing, production and publication. ([Source](https://pkp.sfu.ca/omp/))
-* ** ORCID -** a persistent digital identifier that distinguishes individual researchers. Also supports integration in research workflows. ([Source](http://orcid.org/))
 * ** ProtocolsIO -** Up-to-date crowdsourced protocol repository ([Source](https://www.protocols.io))
 * ** Publish or Perish -** software for retrieving and analysing academic citations. ([Source](http://www.harzing.com/pop.htm#about))
-* ** ResearcherID -** assigns a unique identifier for researchers to manager publication ists, track citations, and avoid author mis-identification. ([Source](http://www.researcherid.com/Home.action?returnCode=ROUTER.Unauthorized&amp;SrcApp=CR&amp;Init=Yes))
-* ** Scalable Vector Graphics (SVG) -** a format for images that is open rather than tied to particular software, resolution-independent (unlike GIF, PNG and JPG), and structured so that with appropriate software it is relatively easy, for example, to translate labels into different languages.
-* ** Scraping -** a computing technique to extract information from websites. ([Wikipedia](http://en.wikipedia.org/wiki/Web_scraping))
 * ** Stack Overflow -** A Question and Answer site for programming issues. ([Source](http://stackoverflow.com/))
-* ** Uniform Resource Identifier (URI) -** a string of characters used to identify a name of a resource to enable its digital and networked representation and interaction. ([Wikipedia](http://en.wikipedia.org/wiki/Uniform_resource_identifier))
 
 Data Repositories
 
@@ -291,25 +339,7 @@ Data Repositories
 - ** Databib ****-** a searchable registry of research data repositories (S[ource](http://databib.org/)) [Note that the Databib and re3data.org registries will merge by the end of 2015]
 - ** Open Access Directory Data Repositories -** a list of repositories or databases relating to open data. Organised by field subject. ([Source](http://oad.simmons.edu/oadwiki/Data_repositories))
 
-Funders And Policy-Related
 
-- ** Publicly funded research -** refers to research which is, at least in part, funded by Governments, often through Research Councils.
-- ** Research Councils UK (RCUK) ****-** The primary government research funding body in the UK. ([Open Access policy](http://www.rcuk.ac.uk/research/openaccess/))
-- ** Jisc -** A UK educational charity, independent but primarily funded by HEFCE. Provides expertise to universities, colleges and cultural institutions on the use of technology to support research, including publication models, repositories, licensing, and infrastructure. ([Source](http://www.jisc.ac.uk/))
-- ** National Institute of Health (NIH) -** The national medical research agency in the USA. (Public[Access policy](http://publicaccess.nih.gov/))
-- ** National Science Foundation (NSF) -** an independent federal agency in the USA for the funding of research. (Public[Access policy](https://www.nsf.gov/about/budget/fy2014/pdf/45_fy2014.pdf))
-- ** Higher Education Funding Council for England (HEFCE) ****-** a funding body for higher education, universities and colleges in England. ([Open Access policy](http://www.hefce.ac.uk/whatwedo/rsrch/rinfrastruct/oa/))
-- ** Wellcome Trust -** A life sciences charity and funding body in the UK ([Open Access policy](http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm))
-- ** Research Excellence Framework (REF) ****-** An initiative to assess the quality of research undertaken in UK higher education institutions. Coordinated by HEFCE.
-- ** Gates Foundation -** A funding body co-ordinated by Melinda and Bill Gates. ([Open Access policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy))
-- ** Max Planck Society -** a German research organisation with 82 Institutes worldwide. ([Open Access policy](http://openaccess.mpg.de/2365/en))
-- ** CrossRef -** an association of scholarly publishers that develops shared infrastructure to support more effective scholarly communication. ([Source](http://www.crossref.org/))
-- ** Public Knowledge Project (PKP) ****-** a multi-university initiative developing free, open source software and conducting research to improve the quality and reach of scholarly publishing. ([Source](https://pkp.sfu.ca/))
-- ** Scholarly Publishing and Academic Resources Coalition (SPARC) -** an international alliance of academic and research libraries working to create a more open system of scholarly communication. ([Source](http://www.sparc.arl.org/))
-- ** Open Access Scholarly Publishers Association (OASPA) -** represents the interests of open access journal and book publishers in all scientific, technical, and scholarly disciplines. ([Source](http://oaspa.org/))
-- ** Mandate -** an authority to carry out a policy. In this context, largely to conform to open access policies.
-- ** OpenAIRE -** a pan-European infrastructure that supports the EC&#39;s Open Access Mandate in Horizon2020. All publications funded by the EC should be made available in Open Access and OpenAIRE harvests from a range of data sources namely repositories, OA publishers. ([Source)](http://www.openaire.eu)
-- ** Department of Energy (DOE) -** A federal agency addressing US energy, environment, and nuclear challenges. [(Public Access Policy)](http://www.energy.gov/downloads/doe-public-access-plan)
 
 Open Research Infrastructure
 
@@ -324,6 +354,7 @@ Open Research Infrastructure
 - ** PubMed Central (PMC) -** a free full-text archive of biomedical and life sciences journal literature at the US National Institutes of Health&#39;s Library of Medicine. ([Source](http://www.ncbi.nlm.nih.gov/pmc/))
 - ** Europe PubMed Central (EuroPMC) -** Based on PubMed Central, and part of a network of repositories supported by funders of life sciences and biomedical research. ([Source](http://europepmc.org/))
 - ** Repository 66 -** a mashup of data from ROAR and OpenDOAR overlayed onto Google maps. ([Source](http://maps.repository66.org/))
+- ** OpenAIRE -** a pan-European infrastructure that supports the EC&#39;s Open Access Mandate in Horizon2020. All publications funded by the EC should be made available in Open Access and OpenAIRE harvests from a range of data sources namely repositories, OA publishers. ([Source)](http://www.openaire.eu)
 
 - ** Scientific Electronic Library Online (SciELO)** - a programme started in Brazil in 1998 which has now expanded to 15 other countries, developed by FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) and BIREME (Centro Latino-americano e do Caribe em Informação em Ciências da Saúde). The objectives are to develop a common methodology for the preparation, storage and dissemination of scientific literature, including standardised evaluation and quality control processes. This comprises a model for cooperative electronic publication of scientific periodicals on the internet using organised bibliographic databases with full text access. ([Source (Portuguese Language)](http://www.scielo.org/php/level.php?lang=pt&amp;component=56&amp;item=1)[(English)](http://www.scielo.org/php/level.php?lang=en&amp;component=42&amp;item=1))
 - ** Securing a Hybrid Environment for Research Preservation and Access **** - **** Rights of MEtadata for Open archiving (SHERPA-RoMEO) **** -** a tool to check what the self-archiving policies for individual journals are. ([Source](http://www.sherpa.ac.uk/romeo))
@@ -360,8 +391,13 @@ Miscellaneous
 - ** Derivative work ****-** A work based upon one or more pre-existing works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. ([Source](http://library.pitt.edu/oscp/glossary))
 - ** Double-dipping ****-** In the context of Open Access, double-dipping occurs when a journal has an article processing charge (APC) for publishing an author&#39;s work, as well as requiring payment (usually through a subscription fee) by the potential user of the work. This model makes the institution or author pay twice to access the work. ([Source](http://openaccess.ox.ac.uk/glossary/)))
 
-## Miscellaneous terms
+* ** Scraping -** a computing technique to extract information from websites. ([Wikipedia](http://en.wikipedia.org/wiki/Web_scraping))
 
+- ** Publicly funded research -** refers to research which is, at least in part, funded by Governments, often through Research Councils.
+
+
+* ** Content mining -** large-scaleextraction of information from content (e.g., photographs, videos, audio, metadata), usually involving thousands of items.(The [ContentMine](http://contentmine.org/))
+* ** Data mining -** an analytic process designed to explore data in search of consistent patterns and/or systematic relationships between variables, and then to transform this information into content for future use.
 - ** Impact -** the scale of use of research outputs both inside and outside of academia.
 
 - ** Scholarly Communication ** ** -** The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. (Sources: [Wikipedia](http://en.wikipedia.org/wiki/Scholarly_communication), [University of Pittsburgh](http://library.pitt.edu/oscp/glossary#oscp_glossary-page-77))
@@ -374,6 +410,7 @@ Miscellaneous
 
 - ** Repeatability -** the similarity between results of a study or experiment and independent results obtained with the same methods and under identical conditions (i.e., pertains to methods and analysis).
 
+- ** Mandate -** an authority to carry out a policy. In this context, largely to conform to open access policies.
 
 
 
