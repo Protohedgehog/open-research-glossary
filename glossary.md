@@ -241,30 +241,44 @@ This glossary is designed to be a resource to inform people about the culture of
 
 ### Funders And Policy-Related
 
-- ** Research Councils UK (RCUK) ****-** The primary government research funding body in the UK. ([Open Access policy](http://www.rcuk.ac.uk/research/openaccess/))
+* **AmeliCA -**
 
-- ** Jisc -** A UK educational charity, independent but primarily funded by HEFCE. Provides expertise to universities, colleges and cultural institutions on the use of technology to support research, including publication models, repositories, licensing, and infrastructure. ([Source](http://www.jisc.ac.uk/))
+* **Coalition S -**
 
-- ** National Institute of Health (NIH) -** The national medical research agency in the USA. (Public[Access policy](http://publicaccess.nih.gov/))
+* **DARIAH -**
 
-- ** National Science Foundation (NSF) -** an independent federal agency in the USA for the funding of research. (Public[Access policy](https://www.nsf.gov/about/budget/fy2014/pdf/45_fy2014.pdf))
+* **FOSTER -**
 
-- ** Wellcome Trust -** A life sciences charity and funding body in the UK ([Open Access policy](http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm))
+* **Gates Foundation -** A funding body co-ordinated by Melinda and Bill Gates, with a strong [Open Access policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy).
 
-- ** Research Excellence Framework (REF) ****-** An initiative to assess the quality of research undertaken in UK higher education institutions. Coordinated by HEFCE.
+* **Jisc -** An educational charity based in the UK Provides expertise to universities, colleges and cultural institutions on the use of technology to support research, including publication models, repositories, licensing, and infrastructure; [Source](http://www.jisc.ac.uk/).
 
-- ** Gates Foundation -** A funding body co-ordinated by Melinda and Bill Gates. ([Open Access policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy))
+* **Max Planck Society -** A German research organisation with 82 Institutes worldwide and a strong [Open Access policy](http://openaccess.mpg.de/2365/en).
 
-- ** Max Planck Society -** a German research organisation with 82 Institutes worldwide. ([Open Access policy](http://openaccess.mpg.de/2365/en))
+* **National Institute of Health (NIH) -** The national medical research agency in the USA, with a [PublicAccess policy](http://publicaccess.nih.gov/).
 
+* **National Science Foundation (NSF) -** An independent federal agency in the USA for the funding of research, with a [Public Access policy](https://www.nsf.gov/about/budget/fy2014/pdf/45_fy2014.pdf).
 
+* **OpenUP -**
+
+* **OPERAS -**
+
+* **Plan S -**
+
+* **Research Councils UK (RCUK) ****-** The primary government research funding body in the UK. ([Open Access policy](http://www.rcuk.ac.uk/research/openaccess/)) - NEEDS UPDATING
+
+* **Research Excellence Framework (REF) ****-** An initiative to assess the quality of research undertaken in UK higher education institutions. Coordinated by HEFCE.
+
+* **Wellcome Trust -** A life sciences charity and funding body in the UK ([Open Access policy](http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm))
 
 
 ### Advocacy organisations
 
-- ** Open Access Scholarly Publishers Association (OASPA) -** represents the interests of open access journal and book publishers in all scientific, technical, and scholarly disciplines. ([Source](http://oaspa.org/))
+- **Open Access Scholarly Publishers Association (OASPA) -** Represents the interests of OA journal and book publishers in all scientific, technical, and scholarly disciplines; [Source](http://oaspa.org/).
 
-- ** Scholarly Publishing and Academic Resources Coalition (SPARC) -** an international alliance of academic and research libraries working to create a more open system of scholarly communication. ([Source](http://www.sparc.arl.org/))
+- **Right to Research Coalition (R2RC) -**
+
+- **Scholarly Publishing and Academic Resources Coalition (SPARC) -** An international alliance of academic and research libraries working to create a more open system of scholarly communication. Primarily based in the [USA]((http://www.sparc.arl.org/)), but now with branches in Europe, South Africa, and Japan.
 
 
 ### Service providers
