@@ -29,19 +29,17 @@ This glossary is designed to be a resource to inform people about the culture of
 * **Open Materials -**
 
 
-## Terms relating scholarly publishing and Open Access
+## Terms relating scholarly publishing
 
 * **Article Processing Charge (APC) -** A fee charged to the author, creator, or institution to cover the cost of publishing an article, rather than charging the potential reader of the article. APCs may apply to both subscription-based and Open Access publications. APCs are sometimes charged to authors in order to cover the cost of publishing and disseminating an article in an Open Access scholarly journal. ([Source](http://openaccess.ox.ac.uk/glossary/))
 
 * **Embargo period -** A length of time imposed on a research output for users who have not paid for access, or do not have institutional access, before it is made freely available. Typically refers to peer-reviewed versions of manuscripts.
 
-* **Hybrid journal -** A type of journal in which certain articles are made Open Access, typically at a significantly higher price (relative to fully-OA journals), while all others remain toll access.
-
 * **Legacy publisher -** A publisher that historically has operated primarily on a paywall-basedbusiness model.
 
-* **Loginwall -** A barrier that prevents access by requiring users to register and login to a service, without asking for money to unlock access.
+* ** Library-based publishing -** Many academic libraries are now beginning to act as publishers for scholarly works produced in their institutions and elsewhere.  In some cases, the library works with the university scholarly press to publish works. In other cases, the library publishes works independently or separately from the academic press. Library-based publishers are often strongly in favor of Open Access; [Source](http://www.librarypublishing.org).
 
-* **Open Access journal -** A journal that exclusively comprises Open Access articles.
+* **Loginwall -** A barrier that prevents access by requiring users to register and login to a service, without asking for money to unlock access.
 
 * **Open Access publisher -** A publisher that publishes all research articles as Open Access articles. Most legacy publishers have options to make journals at least partially Open Access (i.e., the 'hybrid' model).
 
@@ -63,7 +61,22 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Subscription -** A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research in journals.
 
-* **Toll access -** A journal whereby a fee is required to pass a paywall to access research.
+* **Toll access -** A system whereby a fee is required to pass a paywall to access research.
+
+
+### Journal Types
+
+* **Epub -** A free and open [e-book](http://en.wikipedia.org/wiki/E-book) standard by the [International Digital publishing Forum](http://en.wikipedia.org/wiki/International_Digital_Publishing_Forum).
+
+* **Hybrid journal -** Some traditional journals offer an option for authors to make their individual articles freely accessible to anyone worldwide, for an additional fee. All other articles in the journal remain accessible only through subscription; [Source](http://libraries.mit.edu/scholarly/hybrid-journals/).
+
+* **Journal -** An aggregation of published research articles, either digital or printed or both. Historically divided into volumes and issues.
+
+* **Megajournal -** A journal with editorial criteria based on scientific soundness instead of a priori estimated newsworthiness or "impact". They typically cover all research disciplines.
+
+* **Open Access journal -** A journal that exclusively comprises Open Access articles.
+
+* **Overlay journals -** An OA journal that does not produce its own content, but selects and curates groups of articles that are already freely available online. An example of this is [Discrete Analysis](https://discreteanalysisjournal.com/); [Source](http://en.wikipedia.org/wiki/Overlay_journal).
 
 
 ### Types of work often made Open Access
@@ -81,15 +94,15 @@ This glossary is designed to be a resource to inform people about the culture of
 
 ### 'Flavours' or 'types of Open Access
 
-* **Green -** Making a version of the manuscript freely available in a repository. Often referred to as 'self-archiving', and happens in parallel with publication in a journal.
-
-* **Gold -** Making the final version of manuscript (VOR) freely available immediately upon publication by the publisher.
+* **Black -**
 
 * **Bronze -**
 
-* **Black -**
+* **Diamond -** A form of "Gold" OA in which there is no author-facing fee (APC). Sometimes also called 'Platinum' OA.
 
-* ** Diamond -** A form of "Gold" OA in which there is no author-facing fee (APC). Sometimes also called 'Platinum' OA.
+* **Gold -** Making the final version of manuscript (VOR) freely available immediately upon publication by the publisher.
+
+* **Green -** Making a version of the manuscript freely available in a repository. Often referred to as 'self-archiving', and happens in parallel with publication in a journal.
 
 * **Gratis -** A paper is available to read free-of-charge, though its reuse is still restricted, for example by "All Rights Reserved" or" copyright; [Source](http://creativecommons.org.nz/research/).
 
@@ -118,58 +131,55 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * [The San Francisco](http://am.ascb.org/dora/)[Declaration on Research Assessment (DORA)](http://am.ascb.org/dora/) - **2013**
 
-* The Vienna Principles
+* [The Vienna Principles]()
 
-* OCSD Net Principles
+* [OCSD Net Principles]()
 
-* Panama Principles
-
-
+* [Panama Declaration]()
 
 
+## Licensing and copyright
 
- Licensing
- 
- 
- ## Licensing and copyright
+* **Apache License -** A free software license by the Apache Software Foundation; [Source](http://www.apache.org/licenses/).
 
-- ** Creative work -** An original, identifiable piece of content, such as an academic paper, a diagram, a photograph, or a video clip. Owners of creative works have rights, such as copyright, that they might reserve to keep control of the content, or relinquish to allow others to share and reuse that content.
+* **Author addendum -** An author addendum is a supplemental or added agreement to a publishing contract that defines or changes the terms of the contract, often focusing on the transfer of copyright ownership. For authors of scholarly works, an author addendum to a publisher's standard publication contract may be necessary to help ensure that authors protect important rights, such as the right to post their articles online to a personal website or in a digital repository; the right to use their works within a classroom setting; or the right to use their works as the foundation for future research; [Source](http://library.pitt.edu/oscp/glossary).
 
-- ** Intellectual property (IP) -** a legal term that refers to creations of the mind. Examples of intellectual property include music, literature, and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
+* **BSD (Berkeley Software Distribution) -** A family of UNIX-like operating systems; [Source](http://en.wikipedia.org/wiki/Berkeley_Software_Distribution).
 
-- ** Intellectual Property Rights (IPR) ****-** the rights given to the owners of intellectual property. IPR is protected either automatically (eg copyright, design rights) or by registering or applying for it (eg trademarks, patents). Protecting your intellectual property makes it easier to take legal action against anyone who steals or copies it. IPR can be legally sold, assigned or licenced by the creator to other parties, or joint-owned.
+* **Copyleft -** A form of licensing that makes a creative work freely available to be modified, and requiring all modified and extended versions of the creative work to be free as well. OA does not require works to be copyleft, nor does it necessarily exclude copyleft works from being OA. The recommended licence (CC BY) for academic publishing is not copyleft.
 
-- ** Copyright -** The aspect of Intellectual property that gives creators the right to permit (or not permit) what happens to their creations, as opposed to trademark rights or moral rights.
+* **Copyright -** The aspect of Intellectual Property that gives creators the right to permit (or not permit) what happens to their creations, as opposed to trademark rights or moral rights.
 
-- ** Copyleft -** a form of licensing that makes a creative work freely available to be modified, and requiring all modified and extended versions of the creative work to be free as well. Open Access does not require works to be copyleft, nor does it necessarily exclude copyleft works from being open access. The recommended licence (CC-BY) for academic publishing is not copyleft.
+* **Creative Commons (CC) -** A suite of licences that sets out the rights of authors and users, providing alternatives to the standard copyright. CC licences are widely used, simple to state, machine readable and have been created by legal experts.There are a variety of CC licences, each of which use one or more clauses, examples of which are given below. Some licences are compatible with OA in the 'Budapest sense', and some are not; [Source](https://creativecommons.org/licenses/)).
+
+* **CC Zero (CC 0) - ** Waiver of copyright, with no rights reserved. Places content as openly as possible in the public domain; [Source](http://creativecommons.org/about/cc0).
+
+* **CC Attribution (CC BY) -** A licence clause that allows the reuse, sharing, and remixing of materials providing the original author is appropriately attributed. Aside from attribution the CC BY licence has no other restrictions on copying or reuse. Compatible with free cultural works.
+
+* **CC NonCommercial (CC NC) -** A licence clause allowing the reuse, sharing, and remixing of materials providing that it is for non-commercial purposes. Not compatible with free cultural works.
+
+* **CC No Derivatives (CC ND) -** A licence clause requiring that derivatives are not made of the original works. Not compatible with free cultural works.
+
+* **CC ShareAlike (CC SA) -** A licence clause requiring that derivative works have the same licence as the original. Compatible with free cultural works.
+
+* **Creative work -** An original, identifiable piece of content, such as an academic paper, a diagram, a photograph, or a video clip. Owners of creative works have rights, such as copyright, that they might reserve to keep control of the content, or relinquish to allow others to share and reuse that content.
+
+* **GNU GPL (General Public License) -** A free copyleft license for software and other kinds of works; [Source](http://www.gnu.org/copyleft/gpl.html).
+
+* **Intellectual property (IP) -** A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
+
+* **Intellectual Property Rights (IPR) -** The rights given to the owners of intellectual property. IPR is protected either automatically (e.g., via copyright or design rights) or by registering or applying for it (e.g., trademarks, patents). Protecting your IP makes it easier to take legal action against anyone who steals or copies it. IPR can be legally sold, assigned or licenced by the creator to other parties, or jointly-owned.
+
+* **MIT License ****-** A popular open and permissive software license; [Source](http://opensource.org/licenses/MIT).
+
+* **Rehost -**
+
+* **Redistribute -**
+
+* **Reuse -**
 
 
-- ** Rehost -**
 
-- ** Redistribute -**
-
-- ** Reuse -**
-
-- ** Creative Commons -** A suite of licences that set out the rights of authors and users, providing alternatives to the standard copyright. CC licences are widely used, simple to state, machine readable and have been created by legal experts.There are a variety of CC licences, each of which use one or more clauses, examples of which are given below. Some licences are compatible with Open Access in the Budapest sense, and some are not. ([Source](https://creativecommons.org/licenses/)) ([Choosing a license](http://creativecommons.org/choose/))
-- ** CC Attribution (BY) -** a licence clause that allows the reuse, sharing, and remixing of materials providing the original author is appropriately attributed. Aside from attribution the CC-BY licence has no other restrictions on copying. Compatible with free cultural works.
-- ** CC NonCommercial (NC) -** a licence clauseallowing the reuse, sharing, and remixing of materials providing that it is for non-commercial purposes. Not compatible with free cultural works.
-- ** CC No Derivatives (ND) -** a licence clause requiring that derivatives are not made of the original works. Not compatible with free cultural works.
-- ** CC ShareAlike (SA) -** a licence clause requiring that derivative works have the same licence as the original. Compatible with free cultural works.
-- ** CC Zero (CC 0) - **waiver of copyright** ;** no rights reserved. Places content as openly as possible in the public domain. ([Source](http://creativecommons.org/about/cc0))
-- ** BSD (Berkeley Software Distribution) -** A family of UNIX-like operating systems. ([Wikipedia](http://en.wikipedia.org/wiki/Berkeley_Software_Distribution))
-- ** GNU GPL (General Public License) -** A free copyleft license for software and other kinds of works ([Source](http://www.gnu.org/copyleft/gpl.html))
-- ** Apache License -** A free software license by the Apache Software Foundation. ([Source](http://www.apache.org/licenses/))
-- ** MIT License ****-** An open and permissive software license. ([Source](http://opensource.org/licenses/MIT))
-- ** Author Addendum ****-** An author addendum is a supplemental or added agreement to a publishing contract that defines or changes the terms of the contract, often focusing on the transfer of copyright ownership. For authors of scholarly works, an author addendum to a publisher&#39;s standard publication contract may be necessary to help ensure that authors protect important rights, such as the right to post their articles online to a personal website or in a digital repository; the right to use their works within a classroom setting; or the right to use their works as the foundation for future research. ([Source](http://library.pitt.edu/oscp/glossary))
-
-Journal Types
-
-- ** Megajournal -** a journal with editorial criteria based on scientific soundness instead of a priori estimated newsworthiness or &#39;impact&#39;.
-- ** Journal -** an aggregation of published research articles. Historically divided into volumes and issues.
-- ** Overlay journals -** An open access, electronic journal that does not produce its own content, but selects and curates groups of articles that are already freely available online. An example of this is an &#39;Epijournal&#39;. ([Wikipedia](http://en.wikipedia.org/wiki/Overlay_journal))
-- ** Epub -** A free and open [e-book](http://en.wikipedia.org/wiki/E-book) standard by the [International Digital publishing Forum](http://en.wikipedia.org/wiki/International_Digital_Publishing_Forum).
-- ** Hybrid journal -** Some traditional journals offer an option for authors to make their individual articles freely accessible to anyone worldwide, for an additional fee. Other articles in the journal remain accessible only through subscription. Such journals are known as &quot;hybrid journals.&quot; ([Source: MIT](http://libraries.mit.edu/scholarly/hybrid-journals/))
-- ** Library-based publishing ****-** Many academic libraries are now beginning to act as publishers for scholarly works produced in their institutions and elsewhere.  In some cases, the library works with the university scholarly press to publish works. In other cases, the library publishes works independently or separately from the academic press. Library-based publishers are often strongly in favor of Open Access. ([Library Publishing Coalition](http://www.librarypublishing.org))
 
 Peer Review
 
