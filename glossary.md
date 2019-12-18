@@ -15,28 +15,40 @@ This glossary is designed to be a resource to inform people about the culture of
 
 ## Core Definitions underlying Open Research
 
+* **Citizen Science -**
+
 * **Open Access (OA) -** Making peer reviewed scholarly manuscripts freely available via the Internet, permitting any user to read, download, copy, distribute, print, search, or link to the full text of these articles, crawl them for indexing, pass them as data to software, or use them for any lawful purpose, without financial, legal or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited. May also refer to theses, books, book chapters, monographs and other content; [Source](http://www.budapestopenaccessinitiative.org/).
 
 * **Open Data (OD) -** Making data freely available on the public internet permitting any user to download, copy, analyse, re-process, pass them to software or use them for any other purpose without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself; [Source](http://pantonprinciples.org/).
 
 * **Open Educational Resources (OER) -** Making high quality, openly licensed, online educational materials available for sharing, use, and reuse. They act as a mechanism for instructional innovation as networks of teachers and learners share best practices; [Source](http://www.hewlett.org/programs/education/open-educational-resources).
 
-* **Open Source Software (OSS) -** Availability of source code for a piece of software, along with an [Open Source license](http://opensource.org/licenses/) permitting reuse, adaptation, and further distribution; [Source](http://en.wikipedia.org/wiki/Open-source_software).
+* **Open Lab Notebooks (OLN) -**  A concept of blogging about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained; [Source](http://en.wikipedia.org/wiki/Open_notebook_science).
 
-* **Citizen Science -**
+* **Open Materials (OM) -**
 
 * **Open Peer Review (OPR) -**
 
-* **Open Lab Notebooks -**  A concept of blogging about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained; [Source](http://en.wikipedia.org/wiki/Open_notebook_science).
+* **Open Source Software (OSS) -** Availability of source code for a piece of software, along with an [Open Source license](http://opensource.org/licenses/) permitting reuse, adaptation, and further distribution; [Source](http://en.wikipedia.org/wiki/Open-source_software).
 
-* **Open Materials -**
+* **Scholarly Communication -** The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community; [Source](http://en.wikipedia.org/wiki/Scholarly_communication).
 
 
 ## Scholarly publishing
 
 * **Article Processing Charge (APC) -** A fee charged to the author, creator, or institution to cover the cost of publishing an article, rather than charging the potential reader of the article. APCs may apply to both subscription-based and Open Access publications. APCs are sometimes charged to authors in order to cover the cost of publishing and disseminating an article in an Open Access scholarly journal; [Source](http://openaccess.ox.ac.uk/glossary/).
 
+* **Citation -** A reference to a published or unpublished source embedded in content, for the purposes of acknowledging the work and relevance of others to the topic of discussion where the citation appears.
+
+* **Copy editing -** A type of editing designed to improve the formatting, style, and accuracy of text. It usually does not involve changing the content of the original text.
+
+* **Curation -** The selection, preservation, maintenance, collection and archiving of [digital] assets. Curation establishes, maintains, and adds value to repositories of digital data for present and future use; [Source](http://en.wikipedia.org/wiki/Digital_curation).
+
+* **Double-dipping -** In the context of OA, double-dipping occurs when a journal has an APC for publishing an author's work, as well as requiring payment (usually through a subscription fee) by the potential user of the work. This model makes the institution or author pay twice to access the work; [Source](http://openaccess.ox.ac.uk/glossary/).
+
 * **Embargo period -** A length of time imposed on a research output for users who have not paid for access, or do not have institutional access, before it is made freely available. Typically refers to peer-reviewed versions of manuscripts.
+
+* **Fee waiver -** If an institution, research funder or author cannot pay for an APC, many publishers or journals will offer partial or total waiving for fees; [Source](http://www.mdpi.com/2304-6775/3/3/155).
 
 * **Legacy publisher -** A publisher that historically has operated primarily on a paywall-basedbusiness model.
 
@@ -52,6 +64,8 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Publishing -** To make a research output available to the public. Commonly refers to the release of works by publishers, irrespective of whether public access is granted or not.
 
+* **References -** Defines a relationship between one object, a designator, and a second object, a source. Usually takes the form of a bibliography of academic papers at the end of a research manuscript.
+
 * **Repository, general -** An online archive to deposit manuscripts. These can be personal websites, or include platforms such as [ResearchGate](http://www.researchgate.net/) or [edu](http://www.academia.edu/).
 
 * **Repository, institutional -** An online database designed to collect the intellectual output of a particular institution or university, including digital collections such as electronic theses and dissertations (ETDs), preprints, or faculty scholarship, and presents associated metadata regarding the these items; ([Source](http://library.pitt.edu/oscp/glossary#oscp_glossary-page-44)).
@@ -62,9 +76,13 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Self-archiving -** Making a copy of a manuscript available through a personal website, institutional repository, or other repository. This often happens in parallel with publication at a journal.
 
+* **Submission fee -** A fee levied by some publishers for submitting a manuscript to their journals.
+
 * **Subscription -** A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research in journals.
 
 * **Toll access -** A system whereby a fee is required to pass a paywall to access research.
+
+* **Typesetting -** The composition of text by arranging physical pieces of type or by using software to prepare a version of the text suitable for printing. Stored letters and other symbols are retrieved and ordered according to a language's orthography (conventional spelling system of a language) for visual display.
 
 
 ### Journal or publication Types
@@ -92,6 +110,8 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Eprint** - A digital version of a research document available online within a repository.
 
+* **Journal to Wiki publication (J2W) -** Copying text from a published paper to a wiki (such as Wikipedia or Wikibooks), with attribution: legally possible if the licence of the paper is less restrictive than the licence of the wiki.
+
 * **Postprint -** A manuscript draft after it has been peer reviewed.
 
 * **Preprint -** A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
@@ -101,6 +121,8 @@ This glossary is designed to be a resource to inform people about the culture of
 * **Registered Reports -** A type of publication in which peer review of the suggested methods and protocol is completed prior to data collection and analysis. Accepted papers then are guaranteed publication in the journal if the authors follow through with the registered methodology; [Source](https://osf.io/8mpji/wiki/home/).
 
 * **Version of Record (VOR) -** The final published version of a manuscript in a journal, after peer review and processing by a publisher.
+
+* **Wiki to Journal publication (W2J) -** Creating a paper on a wiki, using its features for collaboration and informal review, for submission to a journal for formal peer review. Might involve a public wiki such as Wikipedia or Wikiversity, or a specially-created wiki.
 
 
 ### 'Flavours' or 'types' of Open Access
@@ -175,6 +197,8 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Creative work -** An original, identifiable piece of content, such as an academic paper, a diagram, a photograph, or a video clip. Owners of creative works have rights, such as copyright, that they might reserve to keep control of the content, or relinquish to allow others to share and reuse that content.
 
+* **Derivative work -** A work based upon one or more pre-existing works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted; [Source](http://library.pitt.edu/oscp/glossary).
+
 * **GNU GPL (General Public License) -** A free copyleft license for software and other kinds of works; [Source](http://www.gnu.org/copyleft/gpl.html).
 
 * **Intellectual property (IP) -** A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
@@ -192,7 +216,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 ## Peer Review
 
-- **Annotations -**
+- **Annotations -** A comment with specific location and context, either inline or in the margin of a text document, or within a region of an image or video, or located within a specific row or cell of data in a data set.
 
 - **Comments -**
 
@@ -356,6 +380,8 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **AnnotatorJS / Hypothes.is -** A framework and application for annotating resources online according to an [emerging W3C standard for web annotations](http://www.w3.org/annotation/). Focus is on scholarly applications; [Source Annotator](http://annotatorjs.org/) and [Source Hypothes.is](http://hypothes.is/).
 
+* **Athens** - A sign-in system that provides access to library resources; [Source](http://www.openathens.net/).
+
 * **Bitbucket -** Free source code hosting site; [Source](https://bitbucket.org/).
 
 * Clarivate Analytics
@@ -410,109 +436,103 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **ScienceOpen -**
 
+* **Shibboleth -** A single sign-in system for computer networks and services on the open Internet; [Source](http://en.wikipedia.org/wiki/Shibboleth_(Internet2)).
+
 * **Stack Overflow -** A Question and Answer site for programming issues; [Source](http://stackoverflow.com/).
+
+* **Symplectic -** A world-leading products and services company specialised in research information management. Their flagship system, [Elements](http://symplectic.co.uk/products/elements/), is used by a number of the world's research institutions; [Source](http://symplectic.co.uk/).
+
+* Zotero
 
 
 ### Data Repositories
 
-* ** Databib ****-** a searchable registry of research data repositories (S[ource](http://databib.org/)) [Note that the Databib and re3data.org registries will merge by the end of 2015]
+* **Databib -** A searchable registry of research data repositories; [Source](http://databib.org/). Note that the Databib and re3data.org registries merged at the end of 2015.
 
-* ** DataONE -** a framework and infrastructure for Earth observational data. [Source](https://www.dataone.org/).
+* **DataONE -** A framework and infrastructure for Earth observational data; [Source](https://www.dataone.org/).
 
-* ** Dryad -** a curated resource that makes the data underlying scientific publications discoverable, freely reusable, and citable. ([Source](http://datadryad.org/))
+* **Dryad -** A curated resource that makes the data underlying scientific publications discoverable, freely reusable, and citable; [Source](http://datadryad.org/).
 
-* ** figshare -** a repository where users can make all of their research outputs available in a citable, shareable, and discoverable manner. ([Source](http://figshare.com/))
+* **Figshare -** A repository where users can make all of their research outputs available in a citable, shareable, and discoverable manner; [Source](http://figshare.com/).
 
-* ** Genbank -** the NIH sequence database comprising an annotated collection of all publicly available DNA sequences. Part of the [International Nucleotide Sequence Database Collaboration](http://www.insdc.org/). ([Source](http://www.ncbi.nlm.nih.gov/genbank/))
+* **Genbank -** The NIH sequence database comprising an annotated collection of all publicly available DNA sequences. Part of the [International Nucleotide Sequence Database Collaboration](http://www.insdc.org/); [Source](http://www.ncbi.nlm.nih.gov/genbank/).
 
-* ** Global Biodiversity Information Facility (GBIF) -** contains data about all types of life on Earth, published according to common data standards. ([Source](http://www.gbif.org/))
+* **Global Biodiversity Information Facility (GBIF) -** Contains data about all types of life on Earth, published according to common data standards; [Source](http://www.gbif.org/).
 
-* ** Knowledge Network for Biocomplexity (KNB) -** a network for the discoverability, access, and interpretation of complex ecological data. ([Source](https://knb.ecoinformatics.org/))
+* **Knowledge Network for Biocomplexity (KNB) -** A network for the discoverability, access, and interpretation of complex ecological data; [Source](https://knb.ecoinformatics.org/).
 
-* ** Morphbank -** an image database documenting a range of specimen-based research, including comparative anatomy and taxonomy. Funded by the National Science Foundation. ([Source](http://www.morphbank.net/))
+* **Morphbank -** An image database documenting a range of specimen-based research, including comparative anatomy and taxonomy. Funded by the National Science Foundation; [Source](http://www.morphbank.net/).
 
-* ** Morphobank -** a web application for collaborative evolutionary research, specifically phylogenetic systematics or cladistics, involving morphology. ([Source](http://www.morphobank.org/))
+* **Morphobank -** A Web application for collaborative evolutionary research, specifically phylogenetic systematics or cladistics, involving morphology; [Source](http://www.morphobank.org/).
 
-* ** Open Access Directory Data Repositories -** a list of repositories or databases relating to open data. Organised by field subject. ([Source](http://oad.simmons.edu/oadwiki/Data_repositories))
+* **Open Access Directory Data Repositories -** A list of repositories or databases relating to Open Data. Organised by field subject; [Source](http://oad.simmons.edu/oadwiki/Data_repositories).
 
-* ** Open Science Framework ****-** A tool created by the Center for Open Science for scientists. It is both a research and workflow management tool and open repository. Their goal is to link up the entire research ecosystem, from conception through publication. They give the user full control over the openness of their work and allow for the creation of registrations, which can be used when submitting registered reports. ([Source](https://osf.io/))
+* **Open Science Framework -** A tool created by the Center for Open Science for researchers. It is both a research and workflow management tool and open repository. Their goal is to link up the entire research ecosystem, from conception through publication. They give the user full control over the openness of their work and allow for the creation of registrations, which can be used when submitting registered reports; [Source](https://osf.io/).
 
-* ** re3data.org ****-** a global registry of research data repositories from different academic disciplines. ([Source](http://www.re3data.org/))
+* **re3data.org -** A global registry of research data repositories from different academic disciplines; [Source](http://www.re3data.org/).
 
-* **Registry of Research Data Repositories** - An open science tool that serves as a global registry of research data repositories; ([Source](http://www.re3data.org/))
+* **Registry of Research Data Repositories** - An Open Science tool that serves as a global registry of research data repositories; [Source](http://www.re3data.org/).
 
-* ** UniProt** - Central repository of protein sequence and annotation data. ([Source](http://www.uniprot.org/))
+* **UniProt** - Central repository of protein sequence and annotation data; [Source](http://www.uniprot.org/).
 
-* ** Worldwide Protein Data Bank (****wwPDB)** - Publicly available repository of macromolecular structural data. ([Source](http://www.wwpdb.org/))
+* **Worldwide Protein Data Bank (wwPDB)** - Publicly available repository of macromolecular structural data; [Source](http://www.wwpdb.org/).
 
-* ** Zenodo ****-** An all-purpose free to use repository for all research outputs. DOIs and flexible licensing. ([Source](https://zenodo.org/)[)](https://zenodo.org/)
-
-
-Miscellaneous
-
-- ** Open Access Movement (OAM) -** a global movement started in the late 1990s and early 2000s fuelled by the widespread public access to the World Wide Web. Its prime objective is the free and unrestricted access and reuse of the world&#39;s knowledge.
-
-- ** Openwashing -** having an appearance of open-source and open-licensing for marketing purposes, while continuing proprietary practices. Coined by [Audrey Watters](https://twitter.com/audreywatters).
-- ** Open Access Directory Events -** conferences and workshop archive related to open access ([Source](http://oad.simmons.edu/oadwiki/Events))
-- ** Curation -** the selection, preservation, maintenance, collection and archiving of [digital] assets. Curation establishes, maintains, and adds value to repositories of digital data for present and future use. ([Wikipedia](http://en.wikipedia.org/wiki/Digital_curation))
-- ** Typesetting -** the composition of text by arranging physical pieces of type or by using software to prepare a version of the text suitable for printing. Stored letters and other symbols are retrieved and ordered according to a language&#39;s orthography (conventional spelling system of a language) for visual display.
-- ** Copy editing -** a type of editing designed to improve the formatting, style, and accuracy of text. It usually does not involve changing the content of the original text.
-- ** Annotation -** a comment with specific location and context, either inline or in the margin of a text document, or within a region of an image or video, or located within a specific row or cell of data in a data set.
-- ** Citation -** a reference to a published or unpublished source embedded in content, for the purposes of acknowledging the work and relevance of others to the topic of discussion where the citation appears.
-- ** References -** defines a relationship between one object, a designator, and a second object, a source. Usually takes the form of a bibliography of academic papers at the end of a research manuscript.
-- ** Submission fee -** a fee levied by some publishers for submitting a manuscript to their journals.
-- ** Accessibility -** refers to the degree of access. Defined by an end-user basis, depending on their ability to understand or reuse content.
-- ** Mixed citation -** a textual, bibliographic description of a work that is cited within text.
-- ** Data archiving -** the process of moving data to a storage device for long-term preservation. ([Wikipedia](http://en.wikipedia.org/wiki/Scientific_data_archiving))
-- ** Computational reproducibility -** when publishing computational findings, include details and access to the underlying code, data, and implementation.
-- ** Empirical reproducibility -** the reproduction of results to obtain &#39;verifiable facts&#39;, through improving existing communication standards and reporting.
-- ** Statistical reproducibility -** validating the statistical results, errors, and confidence measures in research. Also the statistical assessment of repeated results for validation purposes.([post from Victoria Stodden](http://edge.org/annual-question/2014/response/25340))
-- ** Shibboleth -** a single sign-in system for computer networks and services on the open Internet. ([Wikipedia](http://en.wikipedia.org/wiki/Shibboleth_(Internet2)))
-- ** Athens** - A sign-in system that provides access to library resources. ([Source](http://www.openathens.net/))
-- ** Symplectic -** A world-leading products and services company specialised in research information management. Their flagship system [Elements](http://symplectic.co.uk/products/elements/), is used by a number of the world&#39;s research institutions. ([Source](http://symplectic.co.uk/))
-- ** Journal to Wiki publication (J2W) -** Copying text from a published paper to a wiki (such as Wikipedia or Wikibooks), with attribution: legally possible if the licence of the paper is less restrictive than the licence of the wiki.
-- ** Wiki to Journal publication (W2J) -** Creating a paper on a wiki, using its features for collaboration and informal review, for submission to a journal for formal peer review. Might involve a public wiki such as Wikipedia or Wikiversity, or a specially-created wiki.
-- ** Fee waiver ****-** If an institution, research funder or author cannot pay for an Article Processing Charge, many publishers or journals will offer partial or total waiving for fees. ([Source](http://www.mdpi.com/2304-6775/3/3/155))
-- ** Derivative work ****-** A work based upon one or more pre-existing works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. ([Source](http://library.pitt.edu/oscp/glossary))
-- ** Double-dipping ****-** In the context of Open Access, double-dipping occurs when a journal has an article processing charge (APC) for publishing an author&#39;s work, as well as requiring payment (usually through a subscription fee) by the potential user of the work. This model makes the institution or author pay twice to access the work. ([Source](http://openaccess.ox.ac.uk/glossary/)))
-
-* ** Scraping -** a computing technique to extract information from websites. ([Wikipedia](http://en.wikipedia.org/wiki/Web_scraping))
-
-- ** Publicly funded research -** refers to research which is, at least in part, funded by Governments, often through Research Councils.
+* **Zenodo -** An all-purpose free to use repository for all research outputs, with DOIs and flexible licensing; [Source](https://zenodo.org/).
 
 
-* ** Content mining -** large-scaleextraction of information from content (e.g., photographs, videos, audio, metadata), usually involving thousands of items.(The [ContentMine](http://contentmine.org/))
-* ** Data mining -** an analytic process designed to explore data in search of consistent patterns and/or systematic relationships between variables, and then to transform this information into content for future use.
-- ** Impact -** the scale of use of research outputs both inside and outside of academia.
+### Miscellaneous
 
-- ** Scholarly Communication ** ** -** The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. (Sources: [Wikipedia](http://en.wikipedia.org/wiki/Scholarly_communication), [University of Pittsburgh](http://library.pitt.edu/oscp/glossary#oscp_glossary-page-77))
+* **Accessibility -** Refers to the degree of access. Defined by an end-user basis, depending on their ability to understand or reuse content.
 
-- ** Funder -** an institute, corporation or government body that provides financial assistance for research.
+* **Content mining -** Large-scale extraction of information from content (e.g., photographs, videos, audio, metadata), usually involving thousands of item; for example using [ContentMine](http://contentmine.org/).
 
-* ** Sharing -** the joint use of a resource or space. A fundamental aspect of collaborative research. As most research is digitally-authored &amp; digitally-published, the resulting digital content is non-rivalrous and can be shared without any loss to the original creator.
+* **Data archiving -** The process of moving data to a storage device for long-term preservation; [Source](http://en.wikipedia.org/wiki/Scientific_data_archiving).
 
-- ** Reproducibility -** the similarity between results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results).
+* **Data mining -** An analytic process designed to explore data in search of consistent patterns and/or systematic relationships between variables, and then to transform this information into content for future use.
 
-- ** Repeatability -** the similarity between results of a study or experiment and independent results obtained with the same methods and under identical conditions (i.e., pertains to methods and analysis).
+* **Funder -** An institute, corporation or government body that provides financial assistance for research.
 
-- ** Mandate -** an authority to carry out a policy. In this context, largely to conform to open access policies.
+* **Impact -** The scale of use of research outputs both inside and outside of academia.
 
+* **Mandate -** An authority to carry out a policy. In this context, largely to conform to OA policies.
+
+* **Open Access Movement (OAM) -** A global movement started in the late 1990s and early 2000s fuelled by the widespread public access to the World Wide Web. Its prime objective is the free and unrestricted access and reuse of the world's knowledge.
+
+* **Open Access Directory Events -** Conferences and workshop archive related to OA; [Source](http://oad.simmons.edu/oadwiki/Events).
+
+* **Openwashing -** Having an appearance of OSS and open-licensing for marketing purposes, while continuing proprietary practices. Coined by [Audrey Watters](https://twitter.com/audreywatters).
+
+* **Publicly funded research -** Refers to research which is, at least in part, funded by Governments, often through Research Councils.
+
+* **Repeatability -** The similarity between results of a study or experiment and independent results obtained with the same methods and under identical conditions (i.e., pertains to methods and analysis).
+
+* **Reproducibility -** The similarity between results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results).
+
+* **Reproducibility, computational -** When publishing computational findings, include details and access to the underlying code, data, and implementation.
+
+* **Reproducibility, empirical -** Reproduction of results to obtain "verifiable facts", through improving existing communication standards and reporting.
+
+* **Reproducibility, statistical -** Validating the statistical results, errors, and confidence measures in research. Also the statistical assessment of repeated results for validation purposes; [Source](http://edge.org/annual-question/2014/response/25340).
+
+* **Scraping -** A computing technique to extract information from websites; [Source](http://en.wikipedia.org/wiki/Web_scraping).
+
+* **Sharing -** The joint use of a resource or space. A fundamental aspect of collaborative research. As most research is digitally-authored and digitally-published, the resulting digital content is non-rivalrous and can be shared without any loss to the original creator.
 
 
 ## Additional Resources
 
-* The [Open Science MOOC](https://opensciencemooc.eu/) resource pages
+* The [Open Science MOOC](https://opensciencemooc.eu/) resource pages.
 
-* [IRIDIUM](https://dictionary.casrai.org/Category:Research_Data_Domain), the international research data management glossary
+* The [IRIDIUM](https://dictionary.casrai.org/Category:Research_Data_Domain) international research data management glossary.
 
-* List of [data repositories](http://oad.simmons.edu/oadwiki/Data_repositories), from the Open Access Directory
+* List of [data repositories](http://oad.simmons.edu/oadwiki/Data_repositories), from the Open Access Directory.
 
-* The [Registry of Research data Repositories](https://www.re3data.org/)
+* The [Registry of Research data Repositories](https://www.re3data.org/).
 
-* List of [declarations](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA) in support of OA, from the Open Access Directory
+* List of [declarations](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA) in support of OA, from the Open Access Directory.
 
-*  A [list of data repositories](http://f1000research.com/for-authors/data-guidelines#hosting) approved by F1000Research.
+* A [list of data repositories](http://f1000research.com/for-authors/data-guidelines#hosting) approved by F1000Research.
 
-*  A [list of data repositories](http://www.nature.com/sdata/data-policies/repositories) approved by Scientific Data.
+* A [list of data repositories](http://www.nature.com/sdata/data-policies/repositories) approved by Scientific Data.
 
-* ** Map of Open Educational Resource Repositories -** Map containing locations for items in the directory of Open Educational Resource Repositories. ([Source](https://oerqualityproject.wordpress.com/2013/05/16/map-of-oer-repositories/))
+* A [map](https://oerqualityproject.wordpress.com/2013/05/16/map-of-oer-repositories/) of Open Educational Resource Repositories, containing locations for items in the directory of Open Educational Resource Repositories.
