@@ -289,7 +289,7 @@ This glossary is designed to help to inform people about the culture of "open re
 * **Wellcome Trust -** A life sciences charity and funding body in the UK ([Open Access policy](http://www.wellcome.ac.uk/About-us/Policy/Policy-and-position-statements/WTD002766.htm))
 
 
-### Open Research Infrastructure
+## Open Research Infrastructure
 
 * **AmeliCA -** A communication infrastructure for scholarly publishing and open science. Sustained cooperatively this initiative focuses on a non-profit publishing model to preserve the scholarly and open nature of scientific communication; [Source](http://amelica.org/index.php/en/about/).
 
@@ -330,7 +330,7 @@ This glossary is designed to help to inform people about the culture of "open re
 * **Securing a Hybrid Environment for Research Preservation and Access - Rights of MEtadata for Open archiving (SHERPA-RoMEO) -** A tool to check what the self-archiving policies for individual journals are; [Source](http://www.sherpa.ac.uk/romeo).
 
 
-### Advocacy organisations
+## Advocacy organisations
 
 * **Open Access Scholarly Publishers Association (OASPA) -** Represents the interests of OA journal and book publishers in all scientific, technical, and scholarly disciplines; [Source](http://oaspa.org/).
 
@@ -339,9 +339,9 @@ This glossary is designed to help to inform people about the culture of "open re
 * **Scholarly Publishing and Academic Resources Coalition (SPARC) -** An international alliance of academic and research libraries working to create a more open system of scholarly communication. Primarily based in the [USA](http://www.sparc.arl.org/), but now with branches in Europe, South Africa, and Japan.
 
 
-## Tools and platforms
+# Tools and platforms
 
-### Formats, identifiers and standards
+## Formats, identifiers and standards
 
 * **Comma-Separated Values, or Character-Separated Values (CSV) -** A plain-text (non-binary) format for tabular data.
 
@@ -372,7 +372,7 @@ This glossary is designed to help to inform people about the culture of "open re
 * **Uniform Resource Identifier (URI) -** A string of characters used to identify a name of a resource to enable its digital and networked representation and interaction; [Source](http://en.wikipedia.org/wiki/Uniform_resource_identifier).
 
 
-### Services and service providers
+## Services and service providers
 
 * **AnnotatorJS / Hypothes.is -** A framework and application for annotating resources online according to an [emerging W3C standard for web annotations](http://www.w3.org/annotation/). Focus is on scholarly applications; [Source Annotator](http://annotatorjs.org/) and [Source Hypothes.is](http://hypothes.is/).
 
@@ -380,27 +380,19 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **Bitbucket -** Free source code hosting site; [Source](https://bitbucket.org/).
 
-* Clarivate Analytics
-
-* COS
+* **Center for Open Science -** A non-profit technology organization with a mission to increase the openness, integrity, and reproducibility of scientific research. Brian Nosek and Jeffrey Spies founded the organization in January 2013, funded mainly by the Laura and John Arnold Foundation and others, after implementation and use of the Open Science Framework (OSF); [Source](https://en.wikipedia.org/wiki/Center_for_Open_Science).
 
 * **CrossRef -** An association of scholarly publishers that develops shared infrastructure to support more effective scholarly communication; [Source](http://www.crossref.org/).
-
-- Digital science
 
 * **Dissem.in -** An online tool that detects papers behind paywalls and invites their authors to upload them in one click to an open repository; [Source](https://dissem.in/).
 
 * **DSpace -** Software for digital open repositories launched by The Massachusetts Institute of Technology (MIT) in 2002; [Source](http://www.dspace.org/).
-
-- Elsevier
 
 * **Eprints -** Software for open digital repositories to self-archiving launched by Southampton University in 2000; [Source](http://www.eprints.org/).
 
 * **Etherpad -** An online, OSS collaborative writing/editing tool operating in real time; [Source](http://etherpad.org/).
 
 * **Flexible Extensible Digital Object and Repository Architecture (FEDORA) -** Software for digital repositories launched by The Cornell and Virginia Universities in 2003; [Source](http://fedorarepository.org/).
-
-* GetTheResearch
 
 * **Git -** An OSS distributed revision control system; [Source](http://git-scm.com/).
 
@@ -424,13 +416,15 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **Open Monograph Press -** An OSS platform for managing the editorial workflow required to see monographs, edited volumes, and scholarly editions through internal and external review, editing, cataloguing, production and publication; [Source](https://pkp.sfu.ca/omp/).
 
+* **Our Research -** A company that specialises in building and maintaining open-source, open-data tools to help power the Open Science revolution; [Source](http://ourresearch.org/projects).
+
 * **Paperity** - A multidisciplinary aggregator of OA journals and papers, Gold and Hybrid. Aims to include ultimately 100% of OA literature; [Source](http://paperity.org/).
 
 * **Protocols.IO -** Up-to-date crowd-sourced protocol repository; [Source](https://www.protocols.io).
 
 * **Publish or Perish -** Software for retrieving and analyzing academic citations; [Source](http://www.harzing.com/pop.htm#about).
 
-* **ScienceOpen -**
+* **ScienceOpen -** A discovery platform with interactive features for scholars to enhance their research in the open, make an impact, and receive credit for it; [Source](https://about.scienceopen.com/).
 
 * **Shibboleth -** A single sign-in system for computer networks and services on the open Internet; [Source](http://en.wikipedia.org/wiki/Shibboleth_(Internet2)).
 
@@ -438,10 +432,10 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **Symplectic -** A world-leading products and services company specialized in research information management. Their flagship system, [Elements](http://symplectic.co.uk/products/elements/), is used by a number of the world's research institutions; [Source](http://symplectic.co.uk/).
 
-* Zotero
+* **Zotero -** A free and open-source reference management software to manage bibliographic data and related research materials (such as PDF files). Notable features include web browser integration, online syncing, generation of in-text citations, footnotes, and bibliographies, as well as integration with the word processors Microsoft Word, LibreOffice Writer, and Google Docs. It is produced by the Center for History and New Media at George Mason University; [Source](https://en.wikipedia.org/wiki/Zotero).
 
 
-### Data Repositories
+## Data Repositories
 
 * **Databib -** A searchable registry of research data repositories; [Source](http://databib.org/). Note that the Databib and re3data.org registries merged at the end of 2015.
 
@@ -467,16 +461,16 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **re3data.org -** A global registry of research data repositories from different academic disciplines; [Source](http://www.re3data.org/).
 
-* **Registry of Research Data Repositories** - An Open Science tool that serves as a global registry of research data repositories; [Source](http://www.re3data.org/).
+* **Registry of Research Data Repositories -** An Open Science tool that serves as a global registry of research data repositories; [Source](http://www.re3data.org/).
 
 * **UniProt** - Central repository of protein sequence and annotation data; [Source](http://www.uniprot.org/).
 
-* **Worldwide Protein Data Bank (wwPDB)** - Publicly available repository of macromolecular structural data; [Source](http://www.wwpdb.org/).
+* **Worldwide Protein Data Bank (wwPDB) -** Publicly available repository of macromolecular structural data; [Source](http://www.wwpdb.org/).
 
 * **Zenodo -** An all-purpose free to use repository for all research outputs, with DOIs and flexible licensing; [Source](https://zenodo.org/).
 
 
-## Miscellaneous
+# Miscellaneous
 
 * **Accessibility -** Refers to the degree of access. Defined by an end-user basis, depending on their ability to understand or reuse content.
 
