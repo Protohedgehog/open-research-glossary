@@ -4,11 +4,11 @@ This glossary is designed to be a resource to inform people about the culture of
 
 You can find the latest version of it [here](glossary.md). Also available in [Word](glossary.docx), [HTML](glossary.html), and [PDF](glossary.pdf) formats.
 
-The rationale was simple. The language underpinning "open research" is complex, touching on a number of issues around copright, licensing, metadata, scholarly publishing, and more. Some of the associated terminology is complex and specialised. This can make participation in discussions around open research difficult.
+The rationale for this was simple. The language underpinning "open research" is complex, touching on a number of issues around copyright, licensing, metadata, scholarly publishing, and more. Some of the associated terminology is highly specialised, which can make participation in discussions around open research difficult.
 
-Now, with the changes in the last 5 years in open research, and increasing community engagement in debates, we feel that an updated version of the Glossary is needed. Our goal with this resource is to make sure that, to the greatest extent possible, participation in discussions is inclusive, rather than divisive. By having a common understanding of the relevant vocabulary, we can make progress faster.
+Now, with the changes in the last 5 years in open research, and increasing community engagement in debates, we feel that an updated version of the Glossary is needed. Our goal with this resource is to make sure that, to the greatest extent possible, participation in discussions is inclusive, rather than divisive. By having a common understanding of the relevant vocabulary, we can empower ourselves to help make progress faster.
 
-The latest version of this doccument has been updated by Jon Tennant and Ross Mounce.
+The [latest version]((glossary.md)) of this document has been updated by Jon Tennant and Ross Mounce at the beginning of 2020.
 
 ## License 
 
