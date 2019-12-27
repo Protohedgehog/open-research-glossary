@@ -125,11 +125,11 @@ This glossary is designed to help to inform people about the culture of "open re
 * **Wiki to Journal publication (W2J) -** Creating a paper on a wiki, using its features for collaboration and informal review, for submission to a journal for formal peer review. Might involve a public wiki such as Wikipedia or Wikiversity, or a specially-created wiki.
 
 
-### 'Flavours' or 'types' of Open Access
+## 'Flavours' or 'types' of Open Access
 
-* **Black -**
+* **Black -** Refers to the illegal/illicit sharing of copies of research articles via channels such as ResearchGate or Sci-Hub. "Black as in the classical pirate flag, or in black market!"; [Source](https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1096).
 
-* **Bronze -**
+* **Bronze -** Delayed OA journals publish articles initially as subscription-only, then release them as free to read (but not to reuse, adapt and share, so not open access), typically after an embargo period (varying from months to years). In this way subscribers get early access to content and it is not licensed for reuse; [Source](https://en.wikipedia.org/wiki/Open_access#Bronze_OA). 
 
 * **Diamond -** A form of "Gold" OA in which there is no author-facing fee (APC). Sometimes also called 'Platinum' OA.
 
@@ -142,36 +142,36 @@ This glossary is designed to help to inform people about the culture of "open re
 * **Libre -** A paper is made available under an open licence, allowing it to be shared and reused, depending on which licence is used; [Source](http://creativecommons.org.nz/research/)). Both 'Libre' and 'Gratis' refer to copyright and licensing restrictions. The difference is often alluded to with the slogan, "Free as in beer, not as in speech."
 
 
-## Declarations And Principles
+# Declarations And Principles
 
-* **1964** - [Declaration of Helsinki](http://www.wma.net/en/30publications/10policies/b3/)
+* **1964** - [Declaration of Helsinki](http://www.wma.net/en/30publications/10policies/b3/).
 
-* **2001** - [Declaration of Havana Towards Equitable Access to Health Information](http://crics5.bvsalud.org/I/declara.htm)
+* **2001** - [Declaration of Havana Towards Equitable Access to Health Information](http://crics5.bvsalud.org/I/declara.htm).
 
-* **2002** - [Budapest Open Access Initiative (BOAI)](http://www.budapestopenaccessinitiative.org/)
+* **2002** - [Budapest Open Access Initiative (BOAI)](http://www.budapestopenaccessinitiative.org/).
 
-* **2003** - [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm)
+* **2003** - [Bethesda Statement on Open Access Publishing](http://legacy.earlham.edu/~peters/fos/bethesda.htm).
 
-* **2003** - [Declaration of Berlin on Open Access to Knowledge in the Sciences and Humanities](http://openaccess.mpg.de/Berlin-Declaration)
+* **2003** - [Declaration of Berlin on Open Access to Knowledge in the Sciences and Humanities](http://openaccess.mpg.de/Berlin-Declaration).
 
-* **2007** - [Kronberg Declaration on the Future of Knowledge Acquisition and Sharing](http://portal.unesco.org/ci/en/files/25109/11860402019Kronberg_Declaration.pdf/Kronberg%2BDeclaration.pdf)
+* **2007** - [Kronberg Declaration on the Future of Knowledge Acquisition and Sharing](http://portal.unesco.org/ci/en/files/25109/11860402019Kronberg_Declaration.pdf/Kronberg%2BDeclaration.pdf).
 
-* **2007** - [Declaration of Brisbane](http://www.watercentre.org/news/declaration)
+* **2007** - [Declaration of Brisbane](http://www.watercentre.org/news/declaration).
 
-* **2009** - [Panton Principles for Open Data](http://pantonprinciples.org/)
+* **2009** - [Panton Principles for Open Data](http://pantonprinciples.org/).
 
-* **2012** - [Cost of Knowledge Manifesto](http://thecostofknowledge.com/)
+* **2012** - [Cost of Knowledge Manifesto](http://thecostofknowledge.com/).
 
-* **2013** - [The San Francisco](http://am.ascb.org/dora/)[Declaration on Research Assessment (DORA)](http://am.ascb.org/dora/)
+* **2013** - [The San Francisco Declaration on Research Assessment (DORA)](http://am.ascb.org/dora/).
 
-* [Vienna Principles]()
+* **2016** - [Vienna Principles](https://viennaprinciples.org/).
 
-* [OCSD Net Principles]()
+* **2017** - [OCSDNet Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/).
 
-* [Panama Declaration]()
+* **2018** - [Declaración de Panamá de Open Science](http://oca.unc.edu.ar/2018/10/25/declaracion-de-panama-de-open-science-america-latina-va-mas-alla-del-acceso-abierto/).
 
 
-## Licensing and copyright
+# Licensing and copyright
 
 * **Apache License -** A free software license by the Apache Software Foundation; [Source](http://www.apache.org/licenses/).
 
@@ -207,18 +207,18 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **MIT License -** A popular open and permissive software license; [Source](http://opensource.org/licenses/MIT).
 
-* **Rehost -**
+* **Rehost -** The practice of moving content from one machine or location to another. This can involve deactivating the content at its source and then activating it again at the new new location. Rehosting is a way to preserve investments in hardware and software, while opening paths to future modernisation by moving to an open and more extensible architecture.
 
-* **Redistribute -**
+* **Redistribute -** Describes the means to copy a piece of software or content and make it available elsewhere.
 
-* **Reuse -**
+* **Reuse -** - The practice of using a work, whether for its original purpose (conventional reuse) or to fulfil a different function (creative reuse or repurposing). Reuse – by taking, but not reprocessing, previously used items – helps save time, money, energy and resources. In broader economic terms, it can make quality products available to people and organizations with limited means, while generating jobs and business activity that contribute to the economy; [Source](https://en.wikipedia.org/wiki/Reuse).
 
 
-## Peer Review
+# Peer Review
 
 - **Annotations -** A comment with specific location and context, either inline or in the margin of a text document, or within a region of an image or video, or located within a specific row or cell of data in a data set.
 
-- **Comments -**
+- **Comments -** The enrichment of conent, usually through the addition of text towards the end of an article. Can be compiled into comment sections for discussion on a published work.
 
 - **Double-blind peer review -** When the reviewers do not know who the authors are, and vice versa.
 
@@ -232,14 +232,14 @@ This glossary is designed to help to inform people about the culture of "open re
 
 - **Signed peer review -** When individual reviews are publicly signed by those who conducted them.
 
-- **Single-blind peer review -**
+- **Single-blind peer review -** Where reviewers know the identity of authors, but authors do not know the identity of reviewers.
 
 - **Transferable peer review -** Reviews that travel with a paper if it is rejected from a journal.
 
-- **Triple-blind peer review -**
+- **Triple-blind peer review -** Where not only are authors and reviewers blind to each other's identities but where editors are also blind to the identities of both.
 
 
-## Assessment And Metrics
+# Assessment And Metrics
 
 * **Altmetrics -** Altmetrics are "alternative"" ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of scholarships reach and impact; [Source](http://library.pitt.edu/oscp/glossary).
 
@@ -253,28 +253,20 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **Journal-level metrics -** Metrics that apply to all papers published within a journal. A common example is the journal Impact Factor.
 
-* **Leiden Manifesto -**
+* **Leiden Manifesto -** A distillation of best practice in metrics-based research assessment so that researchers can hold evaluators to account, and evaluators can hold their indicators to account; [Source](https://www.nature.com/news/bibliometrics-the-leiden-manifesto-for-research-metrics-1.17351).
 
-* **Metrics -**
+* **Metrics -** Measures of quantitative assessment commonly used for assessing, comparing, and tracking performance or production.
 
-* **San Francisco Declaration on Research Assessment (DORA) -**
+* **San Francisco Declaration on Research Assessment (DORA) -** Recognises the need to improve the ways in which the outputs of scholarly research are evaluated. The declaration was developed in 2012 during the Annual Meeting of the American Society for Cell Biology in San Francisco. It has become a worldwide initiative covering all scholarly disciplines and all key stakeholders including funders, publishers, professional societies, institutions, and researchers; [Source](https://sfdora.org/).
 
-* **Scientometrics -**
+* **Scientometrics -** The field of study which concerns itself with measuring and analysing scientific literature. Scientometrics is a sub-field of bibliometrics. Major research issues include the measurement of the impact of research papers and academic journals, the understanding of scientific citations, and the use of such measurements in policy and management contexts; [Source](https://en.wikipedia.org/wiki/Scientometrics).
 
-* **Source-Normalised Impact Per-Paper (SNIP) -**
+* **Source-Normalised Impact Per-Paper (SNIP) -** Measures contextual citation impact by weighting citations based on the total number of citations in a subject field. The impact of a single citation is given higher value in subject areas where citations are less likely, and vice versa.  Unlike the well-known journal impact factor, SNIP corrects for differences in citation practices between scientific fields, thereby allowing for more accurate between-field comparisons of citation impact; [Source](https://lib.guides.umd.edu/bibliometrics/SNIP). 
 
 
-## Organisations
+# Organisations
 
-### Funders and policy-related
-
-* **AmeliCA -**
-
-* **Coalition S -**
-
-* **DARIAH -**
-
-* **FOSTER -**
+## Funders and policy-related
 
 * **Gates Foundation -** A funding body co-ordinated by Melinda and Bill Gates, with a strong [Open Access policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy).
 
@@ -286,15 +278,11 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **National Science Foundation (NSF) -** An independent federal agency in the USA for the funding of research, with a [Public Access policy](https://www.nsf.gov/about/budget/fy2014/pdf/45_fy2014.pdf).
 
-* **OpenUP -**
+* **Plan S -** Plan S is an initiative for Open Access publishing that was launched in September 2018. The plan is supported by cOAlition S, an international consortium of research funders. Plan S requires that, from 2021, scientific publications that result from research funded by public grants must be published in compliant Open Access journals or platforms; [Source](https://www.coalition-s.org/).
 
-- **Public Knowledge Project (PKP) -** A multi-university initiative developing free, Open Source software and conducting research to improve the quality and reach of scholarly publishing; [Source](https://pkp.sfu.ca/).
+* **Projekt DEAL -** The German Rectors’ Conference was tasked by the Alliance of German Science Organizations to institute Projekt DEAL to conclude nationwide “publish and read” agreements with the largest commercial publishers of scholarly journals. DEAL has negotiated on behalf of all German academic institutions including universities, universities of applied sciences, research institutions, state and regional libraries. All academic and research institutions that are entitled to participate in the Alliance and national licenses funded by the German Research Foundation (DFG) are thereby eligible to participate in DEAL agreements; [Source](https://www.projekt-deal.de/about-deal/).
 
-* **Plan S -**
-
-* **Projekt DEAL -**
-
-* **Research Councils UK (RCUK) -** The primary government research funding body in the UK. ([Open Access policy](http://www.rcuk.ac.uk/research/openaccess/)) - NEEDS UPDATING
+* **Public Knowledge Project (PKP) -** A multi-university initiative developing free, Open Source software and conducting research to improve the quality and reach of scholarly publishing; [Source](https://pkp.sfu.ca/).
 
 * **Research Excellence Framework (REF) -** An initiative to assess the quality of research undertaken in UK higher education institutions. Coordinated by HEFCE.
 
@@ -303,9 +291,13 @@ This glossary is designed to help to inform people about the culture of "open re
 
 ### Open Research Infrastructure
 
+* **AmeliCA -** A communication infrastructure for scholarly publishing and open science. Sustained cooperatively this initiative focuses on a non-profit publishing model to preserve the scholarly and open nature of scientific communication; [Source](http://amelica.org/index.php/en/about/).
+
 * **Connecting Repositories (CORE) -** A collection of OA repositories; [Source](http://core.kmi.open.ac.uk/).
 
-* **Confederation of Open Access Repositories (COAR) -**
+* **Confederation of Open Access Repositories (COAR) -** An international association that brings together individual repositories and repository networks in order to build capacity, align policies and practices, and act as a global voice for the repository community; [Source](https://www.coar-repositories.org/).
+
+* **DARIAH -** A pan-european infrastructure for arts and humanities scholars working with computational methods. It supports digital research as well as the teaching of digital research methods; [Source](https://www.dariah.eu/).
 
 * **Directory of Open Access Repositories (OpenDOAR) -** A directory of academic OA repositories. Also has a search function for repositories and repository contents; [Source](http://www.opendoar.org/).
 
@@ -315,7 +307,13 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **Europe PubMed Central (EuroPMC) -** Based on PubMed Central, and part of a network of repositories supported by funders of life sciences and biomedical research; [Source](http://europepmc.org/).
 
-* **Registry of Open Access Repositories (ROAR) -** A registry for OA repositories, hosted by the University of Southampton, UK; [Source](http://roar.eprints.org/).
+* **FOSTER -** An e-learning platform that brings together the best training resources addressed to those who need to know more about Open Science, or need to develop strategies and skills for implementing Open Science practices in their daily workflows; [Source](https://www.fosteropenscience.eu/about).
+
+* **OpenAIRE -** A pan-European infrastructure that supports the European Commision's OA Mandate in Horizon2020. All publications funded by the EC should be made available in Open Access and OpenAIRE harvests from a range of data sources namely repositories, OA publishers. ([Source)](http://www.openaire.eu)
+
+* **OpenUP -** An open, dynamic and collaborative knowledge environment that systematically captures, organizes and categorizes research outcomes, best practices, tools and guidelines; [Source](https://www.openuphub.eu/).
+
+* ** Open Scholarly Communication in the European Research Area for Social Science and Humanities (OPERAS) -** A project to coordinate and pool university-led scholarly communication activities in Europe in the Social Sciences and Humanities, in view of enabling Open Science as the standard practice.
 
 * **PubMed -** A repository comprising more than 24 million citations for the biomedical literature; [Source](http://www.ncbi.nlm.nih.gov/pubmed).
 
@@ -323,11 +321,9 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **Repository 66 -** A mash-up of data from ROAR and OpenDOAR overlayed onto Google maps; [Source](http://maps.repository66.org/).
 
-* **OpenAIRE -** A pan-European infrastructure that supports the European Commision's OA Mandate in Horizon2020. All publications funded by the EC should be made available in Open Access and OpenAIRE harvests from a range of data sources namely repositories, OA publishers. ([Source)](http://www.openaire.eu)
+* ** Red de Revistas Científicas de América Latina y El Caribe, España y Portugal (REDALYC) -** A bibliographic database and a digital library of Open Access journals, supported by the Universidad Autónoma del Estado de México with the help of numerous other higher education institutions and information systems; [Source](https://en.wikipedia.org/wiki/Redalyc). 
 
-* **OPERAS -**
-
-* **REDALYC -**
+* **Registry of Open Access Repositories (ROAR) -** A registry for OA repositories, hosted by the University of Southampton, UK; [Source](http://roar.eprints.org/).
 
 * **Scientific Electronic Library Online (SciELO) -** A programme started in Brazil in 1998 which has now expanded to 15 other countries, developed by FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) and BIREME (Centro Latino-americano e do Caribe em Informação em Ciências da Saúde). The objectives are to develop a common methodology for the preparation, storage and dissemination of scientific literature, including standardized evaluation and quality control processes. This comprises a model for cooperative electronic publication of scientific periodicals on the internet using organised bibliographic databases with full text access; Source, in [Portuguese](http://www.scielo.org/php/level.php?lang=pt&amp;component=56&amp;item=1) and in [English](http://www.scielo.org/php/level.php?lang=en&amp;component=42&amp;item=1).
 
@@ -338,7 +334,7 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **Open Access Scholarly Publishers Association (OASPA) -** Represents the interests of OA journal and book publishers in all scientific, technical, and scholarly disciplines; [Source](http://oaspa.org/).
 
-* **Right to Research Coalition (R2RC) -**
+* **Right to Research Coalition (R2RC) -**  Founded by students in the summer of 2009 to promote an open scholarly publishing system based on the belief that no student should be denied access to the articles they need because their institution cannot afford the often high cost of access.  Since its launch, the Coalition has grown to represent nearly 7 million students internationally and counts among its members the largest student organizations in both the United States and Canada.  While the Coalition currently has a strong base in North America, it is by no means solely a North American organization and is expanding to incorporate student organizations from around the world; [Source](http://www.righttoresearch.org/about/index.shtml).
 
 * **Scholarly Publishing and Academic Resources Coalition (SPARC) -** An international alliance of academic and research libraries working to create a more open system of scholarly communication. Primarily based in the [USA](http://www.sparc.arl.org/), but now with branches in Europe, South Africa, and Japan.
 
