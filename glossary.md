@@ -313,7 +313,7 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **OpenUP -** An open, dynamic and collaborative knowledge environment that systematically captures, organizes and categorizes research outcomes, best practices, tools and guidelines; [Source](https://www.openuphub.eu/).
 
-* ** Open Scholarly Communication in the European Research Area for Social Science and Humanities (OPERAS) -** A project to coordinate and pool university-led scholarly communication activities in Europe in the Social Sciences and Humanities, in view of enabling Open Science as the standard practice.
+* **Open Scholarly Communication in the European Research Area for Social Science and Humanities (OPERAS) -** A project to coordinate and pool university-led scholarly communication activities in Europe in the Social Sciences and Humanities, in view of enabling Open Science as the standard practice.
 
 * **PubMed -** A repository comprising more than 24 million citations for the biomedical literature; [Source](http://www.ncbi.nlm.nih.gov/pubmed).
 
@@ -321,7 +321,7 @@ This glossary is designed to help to inform people about the culture of "open re
 
 * **Repository 66 -** A mash-up of data from ROAR and OpenDOAR overlayed onto Google maps; [Source](http://maps.repository66.org/).
 
-* ** Red de Revistas Científicas de América Latina y El Caribe, España y Portugal (REDALYC) -** A bibliographic database and a digital library of Open Access journals, supported by the Universidad Autónoma del Estado de México with the help of numerous other higher education institutions and information systems; [Source](https://en.wikipedia.org/wiki/Redalyc). 
+* **Red de Revistas Científicas de América Latina y El Caribe, España y Portugal (REDALYC) -** A bibliographic database and a digital library of Open Access journals, supported by the Universidad Autónoma del Estado de México with the help of numerous other higher education institutions and information systems; [Source](https://en.wikipedia.org/wiki/Redalyc). 
 
 * **Registry of Open Access Repositories (ROAR) -** A registry for OA repositories, hosted by the University of Southampton, UK; [Source](http://roar.eprints.org/).
 
