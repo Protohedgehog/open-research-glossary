@@ -3,19 +3,19 @@ title: "Open Research Glossary"
 author: "Jon Tennant and Ross Mounce"
 date: 'January 2020'
 output:
-  word_document: default
-  html_document: default
-  pdf_document: default
+ word_document: default
+ html_document: default
+ pdf_document: default
 ---
 
 This resource is based on the original created by [Jon Tennant](https://twitter.com/Protohedgehog/) and [Ross Mounce](https://twitter.com/rmounce).
 
-This glossary is designed to be a resource to inform people about the culture of "open research". It was written by the community, for the community, and depends on the community to stay current. To update this resource please make any changes [here](https://github.com/Protohedgehog/open-research-glossary).
+This glossary is designed to help to inform people about the culture of "open research". It was written by the community, for the community, and depends on the community to stay current.
 
 
-## Core Definitions underlying Open Research
+# Core Definitions underlying Open Research
 
-* **Citizen Science -**
+* **Citizen Science -** Citizen science is scientific research conducted, in whole or in part, by amateur (or nonprofessional) scientists. Citizen science is sometimes described as "public participation in scientific research," participatory monitoring, and participatory action research whose outcomes are often advancements in scientific research, as well as an increase in the public's understanding of science; [Source](https://en.wikipedia.org/wiki/Citizen_science).
 
 * **Open Access (OA) -** Making peer reviewed scholarly manuscripts freely available via the Internet, permitting any user to read, download, copy, distribute, print, search, or link to the full text of these articles, crawl them for indexing, pass them as data to software, or use them for any lawful purpose, without financial, legal or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited. May also refer to theses, books, book chapters, monographs and other content; [Source](http://www.budapestopenaccessinitiative.org/).
 
@@ -23,18 +23,18 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Open Educational Resources (OER) -** Making high quality, openly licensed, online educational materials available for sharing, use, and reuse. They act as a mechanism for instructional innovation as networks of teachers and learners share best practices; [Source](http://www.hewlett.org/programs/education/open-educational-resources).
 
-* **Open Lab Notebooks (OLN) -**  A concept of blogging about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained; [Source](http://en.wikipedia.org/wiki/Open_notebook_science).
+* **Open Lab Notebooks (OLN) -** A concept of blogging about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained; [Source](http://en.wikipedia.org/wiki/Open_notebook_science).
 
-* **Open Materials (OM) -**
+* **Open Materials (OM) -** Providing access to materials made by and for the wider research community. This can include elements from experiments, tasks, and questionnaires made by researchers, and helps to increase the transparency, accessibility, and reproducibility of published research.
 
-* **Open Peer Review (OPR) -**
+* **Open Peer Review (OPR) -** An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process; [Source](https://f1000research.com/articles/6-588/v2).
 
 * **Open Source Software (OSS) -** Availability of source code for a piece of software, along with an [Open Source license](http://opensource.org/licenses/) permitting reuse, adaptation, and further distribution; [Source](http://en.wikipedia.org/wiki/Open-source_software).
 
 * **Scholarly Communication -** The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community; [Source](http://en.wikipedia.org/wiki/Scholarly_communication).
 
 
-## Scholarly publishing
+# Scholarly publishing
 
 * **Article Processing Charge (APC) -** A fee charged to the author, creator, or institution to cover the cost of publishing an article, rather than charging the potential reader of the article. APCs may apply to both subscription-based and Open Access publications. APCs are sometimes charged to authors in order to cover the cost of publishing and disseminating an article in an Open Access scholarly journal; [Source](http://openaccess.ox.ac.uk/glossary/).
 
@@ -52,7 +52,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Legacy publisher -** A publisher that historically has operated primarily on a paywall-based business model.
 
-* **Library-based publishing -** Many academic libraries are now beginning to act as publishers for scholarly works produced in their institutions and elsewhere.  In some cases, the library works with the university scholarly press to publish works. In other cases, the library publishes works independently or separately from the academic press. Library-based publishers are often strongly in favor of Open Access; [Source](http://www.librarypublishing.org).
+* **Library-based publishing -** Many academic libraries are now beginning to act as publishers for scholarly works produced in their institutions and elsewhere. In some cases, the library works with the university scholarly press to publish works. In other cases, the library publishes works independently or separately from the academic press. Library-based publishers are often strongly in favor of Open Access; [Source](http://www.librarypublishing.org).
 
 * **Loginwall -** A barrier that prevents access by requiring users to register and login to a service, without asking for money to unlock access.
 
@@ -68,7 +68,7 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Repository, general -** An online archive to deposit manuscripts. These can be personal websites, or include platforms such as [ResearchGate](http://www.researchgate.net/) or [edu](http://www.academia.edu/).
 
-* **Repository, institutional -** An online database designed to collect the intellectual output of a particular institution or university, including digital collections such as electronic theses and dissertations (ETDs), preprints, or faculty scholarship, and presents associated metadata regarding the these items; ([Source](http://library.pitt.edu/oscp/glossary#oscp_glossary-page-44)).
+* **Repository, institutional -** An online database designed to collect the intellectual output of a particular institution or university, including digital collections such as electronic theses and dissertations (ETDs), preprints, or faculty scholarship, and presents associated metadata regarding the these items; [Source](http://library.pitt.edu/oscp/glossary#oscp_glossary-page-44).
 
 * **Repository, software -** An online collection of files managed with version control software (e.g., bzr, hg, git, csv, svn, etc.). Can be hosted by third-party (e.g., [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/), [SourceForge](https://sourceforge.net/)), by an institution, or self-hosted locally.
 
@@ -85,9 +85,9 @@ This glossary is designed to be a resource to inform people about the culture of
 * **Typesetting -** The composition of text by arranging physical pieces of type or by using software to prepare a version of the text suitable for printing. Stored letters and other symbols are retrieved and ordered according to a language's orthography (conventional spelling system of a language) for visual display.
 
 
-### Journal or publication Types
+## Journal or publication Types
 
-* **Book -**
+* **Book -** AA medium for recording information in the form of writing or images, typically composed of many pages (made of papyrus, parchment, vellum, or paper) bound together and protected by a cover; [Source](https://en.wikipedia.org/wiki/Book).
 
 * **Epub -** A free and open [e-book](http://en.wikipedia.org/wiki/E-book) standard by the [International Digital publishing Forum](http://en.wikipedia.org/wiki/International_Digital_Publishing_Forum).
 
@@ -97,14 +97,14 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Megajournal -** A journal with editorial criteria based on scientific soundness instead of a priori estimated newsworthiness or "impact". They typically cover all research disciplines.
 
-* **Monograph -**
+* **Monograph -** A specialist work of writing or exhibition on a single subject or an aspect of a subject, often by a single author or artist, and usually on a scholarly subject; [Source](https://en.wikipedia.org/wiki/Monograph).
 
 * **Open Access journal -** A journal that exclusively comprises Open Access articles.
 
 * **Overlay journals -** An OA journal that does not produce its own content, but selects and curates groups of articles that are already freely available online. An example of this is [Discrete Analysis](https://discreteanalysisjournal.com/); [Source](http://en.wikipedia.org/wiki/Overlay_journal).
 
 
-### Types of work often made Open Access
+## Types of work often made Open Access
 
 * **Accepted author manuscript (AAM) -** The version of a manuscript that has been formally accepted by a publisher for publication.
 
@@ -112,11 +112,11 @@ This glossary is designed to be a resource to inform people about the culture of
 
 * **Journal to Wiki publication (J2W) -** Copying text from a published paper to a wiki (such as Wikipedia or Wikibooks), with attribution: legally possible if the licence of the paper is less restrictive than the licence of the wiki.
 
-* **Postprint -** A manuscript draft after it has been peer reviewed.
+* **Postprint -** A manuscript draft after it has been peer reviewed, but before it has undergone further modification by a publisher.
 
 * **Preprint -** A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
 
-* **Pre-registration-**
+* **Preregistration-** The practice of registering a scientific study before it is conducted. Preregistration of studies serves to prevent publication bias and reduce data dredging. It arose as a means to address the replication crisis. Pregistration requires the submission of a registered report, which is then accepted for publication or rejected by a journal based on theoretical justification, experimental design, and the proposed statistical analysis; [Source](https://en.wikipedia.org/wiki/Preregistration).
 
 * **Registered Reports -** A type of publication in which peer review of the suggested methods and protocol is completed prior to data collection and analysis. Accepted papers then are guaranteed publication in the journal if the authors follow through with the registered methodology; [Source](https://osf.io/8mpji/wiki/home/).
 
